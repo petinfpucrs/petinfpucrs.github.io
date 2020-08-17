@@ -24,8 +24,6 @@ logo       : /assets/img/logo_PET.png
 email      : petinf.pucrs@gmail.com #this is also the email contact forms will go to
 description: "Novo Site Oficial do PET-Inf - PUCRS"
 author     : 
-# logo       : PET-Informática #optional, defaults to site title
-# path       : /assets/img/logo.png
 # height     : 60 #height in px, defaults to 52px
 
 analytics:
