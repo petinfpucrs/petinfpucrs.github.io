@@ -1,0 +1,19 @@
+nav:
+  - title: "Sobre"
+    section: services
+    
+  #- title: "Notícias"
+  #  section: notícias  
+
+  - title: "Projetos"
+    section: portfolio
+    
+  - title: "História"
+    section: timeline
+
+  - title: "Nossa equipe"
+    section: team
+
+  - title: "Contato"
+    section: contact
+
