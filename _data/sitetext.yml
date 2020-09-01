@@ -24,8 +24,8 @@ services:
                 <li><b>Edital 2020/2 - Em Andamento</b></li>
 
             <ul/> 
-        button: Inscreva-se
-        buttonlink: "https://forms.office.com/Pages/ResponsePage.aspx?id=Mc_rUTlYLkGDu4AaK6eGJ1WOVcM8ikRKuf9euQoAVJtUMFJNMUYxUDhFUDFaUTRZTldNTjhEOEo1QSQlQCN0PWcu" # "#{section}" or "URL/page link"
+        #button: Inscreva-se
+        #buttonlink: " " # "#{section}" or "URL/page link"
         icon: fas fa-users
         
 #notícias:
