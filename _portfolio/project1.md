@@ -16,7 +16,7 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
       
       <ul align="left">
 
-          <li>React Native</li>
+          <li>React</li>
 
           <li>Node.js</li>
 
@@ -30,11 +30,15 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
 
       <ul align="left">
 
+        <li>Henrique Feijó</li>
+        
+        <li>Luiz Otávio</li>
+        
         <li>Pedro Rogoski</li>
 
       </ul>
 
-      <p align="right">Última atualização&#58 13/08/2020</p>
+      <p align="right">Última atualização&#58 23/09/2020</p>
 
 ---
 
