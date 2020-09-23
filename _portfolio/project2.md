@@ -36,6 +36,8 @@ text: <p align="justify">Como parte do projeto de divulgação do PET-Informáti
       <ul align="left">
 
         <li>Jessé Rodrigues</li>
+        
+        <li>Pedro Machado</li>
 
         <li>Waldyr Schneider</li>
 
