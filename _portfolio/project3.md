@@ -38,6 +38,8 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) Ã
         <li>Felipe Ferro</li>
 
         <li>Lucas Buffet</li>
+        
+        <li>Rafael Shaker</li>
 
       </ul>
       
