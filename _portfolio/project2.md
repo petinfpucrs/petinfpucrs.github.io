@@ -43,5 +43,5 @@ text: <p align="justify">Como parte do projeto de divulgação do PET-Informáti
 
       </ul>
 
-      <p align="right">Última atualização&#58 12/08/2020</p>
+      <p align="right">Última atualização&#58 23/09/2020</p>
 ---
