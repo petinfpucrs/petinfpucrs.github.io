@@ -4,7 +4,7 @@ subtitle: Grupo de estudos voltado para atividades Capture the Flag.
 image:
 
 caption: 
-  title: SECTEAM
+  title: SecTeam
   subtitle: Grupo de Estudos
   thumbnail: https://raw.githubusercontent.com/petinfpucrs/petinfpucrs.github.io/master/assets/img/capa-secteam.png
 
