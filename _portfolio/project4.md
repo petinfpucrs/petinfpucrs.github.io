@@ -6,7 +6,7 @@ image:
 caption: 
   title: SECTEAM
   subtitle: Grupo de Estudos
-  thumbnail: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/Blog-Update/assets/img/capa-secteam.png
+  thumbnail: https://raw.githubusercontent.com/petinfpucrs/petinfpucrs.github.io/master/assets/img/capa-secteam.png
 
 text: <p align="justify">O SecTeam tem como propósito principal estudar, compreender e aplicar na prática conceitos relacionados às diversas áreas da segurança de redes e web security, como também conceitos de ethical hacking. Basicamente consiste em testar as vulnerabilidades de segurança, para então adaptar e/ou melhorar o sistema.</p>
 
