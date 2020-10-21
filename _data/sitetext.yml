@@ -6,7 +6,7 @@ header:
 
 services:
     title: "PET-Informática"
-    text: ""
+    text: 
     section: services
     list:
       - title: "O Programa"
@@ -28,8 +28,8 @@ services:
         #button: Projetos
         #buttonlink: "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
-    button: Acesse Nosso Blog!
-    buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
+    #button: Acesse Nosso Blog!
+    #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
   
 portfolio:
     title: "Projetos"
