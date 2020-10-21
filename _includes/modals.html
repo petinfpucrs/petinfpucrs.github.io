@@ -10,19 +10,40 @@
         </div>
         <div class="container">
           <div class="row">
-            <div class="col-lg-8 mx-auto">
+            <div class="col-lg-9 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">{{ project.title }}</h2>
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
                 <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
-				<p>{{ project.content }}</p>		
+        <p>{{ project.content }}</p>
                 <p class="text">{{ project.text }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ project.imag }}" alt="{{ project.alt2 }}"> 
-		<button class="btn btn-primary" data-dismiss="modal" type="button">
-                  <i class="fas fa-angle-left"></i>
-                  Voltar</button>
               </div>
+            </div>
+          </div>
+          <div class="row">
+            {% for person in project.people %}
+            <div class="col">
+              <div class="team-member">
+                <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+                <h4>{{ person.name }}</h4>
+                <p class="text-muted">{{ person.role }}</p>
+                <ul class="list-inline social-buttons">
+                {% for network in person.social %}
+                  <li class="list-inline-item">
+                    <a href="{{ network.url }}" target="_blank">
+                      <i class="{{ network.icon }}"></i>
+                    </a>
+                  </li>
+                {% endfor %}
+                </ul>
+              </div>
+            </div>
+            {% endfor %}
+            <div class="button col-lg-12 mx-auto">
+              <button class="btn btn-primary" data-dismiss="modal" type="button">
+              <i class="fas fa-angle-left"></i>
+              Voltar</button>
             </div>
           </div>
         </div>
