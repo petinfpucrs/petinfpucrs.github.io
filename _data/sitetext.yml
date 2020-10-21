@@ -92,18 +92,18 @@ timeline:
     end: "Faça parte <br> da nossa <br> história!"
     
 team:
-    title: "Nossa equipe"
+    title: "Nossa Equipe"
     #text: "Lorem ipsum dolor sit amet consectetur."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    people2:
+    tutor:
       - name: "Prof. Dr. Tiago Ferreto"
-        role: "Ph.D. em Ciência da Computação <br> Tutor"
+        role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
         image: assets/img/team/TiagoF.png
         social:
-          - url: https://github.com/
+          - url: https://github.com/tiagoferreto
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     people:
       - name: "Felipe Ferro"
@@ -202,21 +202,20 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/waldyr-schneider/
             icon: fab fa-linkedin-in
-          
 contact:
     title: "Fale Conosco"
-    text: "Envie um email para loremipsum@lorem.ipsum"
+    text: "Envie um email para petinf.pucrs@gmail.com"
     section: contact
     
 footer:
     legal: "Política de Privacidade"
-    social: 
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+    social:  
+#       - url: https://facebook.com
+#         icon: "fab fa-facebook-f"
+      - url: https://github.com/petinfpucrs
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+#       - url: https://instagram.com
+#         icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
