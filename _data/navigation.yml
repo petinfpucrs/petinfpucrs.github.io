@@ -13,4 +13,6 @@ nav:
 
   - title: "Contato"
     section: contact
-
+    
+  - title: "Blog"
+    url: https://jessesrodrigues.github.io/blog
