@@ -14,5 +14,5 @@ nav:
   - title: "Contato"
     section: contact
     
-  - title: "Blog"
-    url: https://petinfpucrs.github.io/blog
+  #- title: "Blog"
+  #  url: https://petinfpucrs.github.io/blog
