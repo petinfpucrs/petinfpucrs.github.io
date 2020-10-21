@@ -36,54 +36,7 @@ portfolio:
     text: "Veja os trabalhos em desenvolvimento!"
     section: portfolio
 
-timeline:
-    title: "História" 
-    text: "Projetos já realizados!"
-    section: timeline
-    events:
-      - title: "Criação do PET-Informática"
-        year: "Novembro 1991"
-        desc: "O PET-Inf foi criado na PUCRS ao final de 1991, tendo como primeiro tutor o professor Álvaro Guarda."
-        image: assets/img/timeline/1.jpg
-        alt: 
-        #align: left
-      - title: "Tutores do PET-Inf"
-        year: "1991 - 2020"
-        desc: "<ul>
 
-                <li>Prof. Dr. Álvaro Guarda: 1991-1993</li>
-
-                <li>Prof. Dr. Afonso Orth: 1993-1996</li>
-
-                <li>Prof. Dr. Fabiano Hessel: 2001-2002</li>
-
-                <li>Prof. Dr. Luís Lamb: 2002</li>
-
-                <li>Prof. Dr. Lúcia Giraffa: 2002-2005</li>
-
-                <li>Prof. Dr. Alfio Martini: 2005-2010</li>
-
-                <li>Prof. Dr. Celso Maciel: 2010-11 | 1996-2000</li>
-
-                <li>Prof. Dr. Tiago Ferreto: 2011 - Atual</li>
-
-            </ul> "
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Clique aqui</br> para saber mais!"
 
 clients:
     section: clients
@@ -97,6 +50,46 @@ clients:
       - title: "PET-MEC"
         url: http://portal.mec.gov.br/component/tags/tag/32496
         logo: assets/img/clients/logo-Mec-.png
+    
+timeline:
+    title: "História" 
+    #text: "Projetos já realizados!"
+    section: timeline
+    events:
+      - title: "Criação do PET-Informática"
+        year: "Novembro 1991"
+        desc: "O PET-Inf foi criado na PUCRS ao final de 1991, tendo como primeiro tutor o professor Álvaro Guarda."
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+      - title: "Tutores do PET-Inf"
+        year: "1991 - 2020"
+        desc: "<ul>
+                <li>Prof. Dr. Álvaro Guarda: 1991-1993</li>
+                <li>Prof. Dr. Afonso Orth: 1993-1996</li>
+                <li>Prof. Dr. Fabiano Hessel: 2001-2002</li>
+                <li>Prof. Dr. Luís Lamb: 2002</li>
+                <li>Prof. Dr. Lúcia Giraffa: 2002-2005</li>
+                <li>Prof. Dr. Alfio Martini: 2005-2010</li>
+                <li>Prof. Dr. Celso Maciel: 2010-11 | 1996-2000</li>
+                <li>Prof. Dr. Tiago Ferreto: 2011 - Atual</li>
+            <ul/> "
+        image: assets/img/timeline/2.jpg
+        alt: 
+        align: right
+#       - title: "Jekyll Theme is created"
+#         year: "2019"
+#         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+#         image: assets/img/timeline/3.jpg
+#         alt: image alt text
+#         #align: #default is left       
+#       - title: "Title"
+#         year: "2009-2011"
+#         desc: "Your description here, **Markdown** is fully supported."
+#         image: assets/img/timeline/4.jpg
+#         alt: 
+#         align: right
+    end: "Faça parte <br> da nossa <br> história!"
     
 team:
     title: "Nossa equipe"
