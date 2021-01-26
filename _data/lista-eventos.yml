@@ -1,0 +1,19 @@
+# para novo evento:
+# 1. adicione a imagem em assets/img/eventos 
+# 2. copie a descrição e cole abaixo de "eventos:" (respeitando os espaçamentos)
+# 3. retire os "#" e "()" e complete com as informações 
+
+#  - nome: (nome do evento)
+#    data: (data do evento)
+#    legenda: (descrição do evento)
+#    imagem: assets/img/eventos/(nome do arquivo)
+
+
+
+# eventos:
+
+#  - nome: (nome do evento)
+#    data: (data do evento)
+#    legenda: (descrição do evento)
+#    imagem: assets/img/eventos/(nome do arquivo)
+
