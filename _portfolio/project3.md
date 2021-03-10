@@ -35,13 +35,11 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) �
 
       <ul align="left">
 
-        <li>Felipe Ferro</li>
-
         <li>Lucas Buffet</li>
         
-        <li>Rafael Shaker</li>
+        <li>Rafael Schaker</li>
 
       </ul>
       
-      <p align="right">Última atualização&#58 23/09/2020</p>
+      <p align="right">Última atualização&#58 10/03/2021</p>
 ---

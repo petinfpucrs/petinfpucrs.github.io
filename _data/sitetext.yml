@@ -16,17 +16,15 @@ services:
         desc: <p align="justify">O PET-Inf foi criado na PUCRS em novembro de 1991, tendo como primeiro tutor o professor Álvaro Guarda. O grupo reúne alunos da graduação de vários cursos da área de tecnologia da universidade, desenvolvendo atividades com prioridade à diversidade de conhecimentos que vão além do currículo formal. <a href="http://www.pucrs.br/politecnica/amplie-sua-formacao/programa-de-educacao-tutorial" target="_blank"><b>Saiba mais!</b></a></p>
         icon: fas fa-university      
       - title: "Faça Parte do Grupo!"
-        desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas, fique à vontade para falar conosco na sessão de contato ao final da página!</p>
+        desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas, fique à vontade para falar conosco na seção de contato ao final da página!</p>
             
             <ul>
 
-                <li>Edital 2020/1 - Encerrado</li>
-
-                <li>Edital 2020/2 - Encerrado</li>
+                <li>Edital 2021/1 - Em breve</li>
 
             </ul>
-        #button: Projetos
-        #buttonlink: "#portfolio" # "#{section}" or "URL/page link" 
+        button: Em breve
+        buttonlink: # "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
@@ -107,30 +105,6 @@ team:
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     people:
-      - name: "Felipe Ferro"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2018"
-        image: assets/img/team/FelipeF.jpg
-        social:
-          - url: https://github.com/Felipe3Ferro
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/felipe-ferro-76a077191/
-            icon: fab fa-linkedin-in
-      - name: "Henrique Derlam"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/HenriqueD.png
-        social:
-          - url: https://github.com/henrique-zw
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/henrique-derlam-952a941b5/
-            icon: fab fa-linkedin-in
-      - name: "Henrique Feijó"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/HenriqueF.png
-        social:
-          - url: https://github.com/thehenrik18 
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/henrique-feij%C3%B3-4245491b7
-            icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 07/2020"
         image: assets/img/team/JesseR.jpg
@@ -147,14 +121,6 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lucas-buffet-28b7061b4/
             icon: fab fa-linkedin-in
-      - name: "Luiz Otávio"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/LuizO.jpg
-        social:
-          - url: https://github.com/Wolxf2
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/luiz-ot%C3%A1vio-jirkowsky-e-silva-b114741b7/
-            icon: fab fa-linkedin-in
       - name: "Pedro Filippi"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/PedroF.png
@@ -163,37 +129,13 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/pedro-filippi-4584741b7/
             icon: fab fa-linkedin-in
-      - name: "Pedro Machado"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/PedroM.jpg
-        social:
-          - url: https://github.com/Pedro30Machado
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/pedro-machado-3a74741b7
-            icon: fab fa-linkedin-in
-      - name: "Pedro Rogoski"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2020"
-        image: assets/img/team/PedroR.jpeg
-        social:
-          - url: https://github.com/Rogoski21
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/pedro-maia-rogoski-705119183/
-            icon: fab fa-linkedin-in
-      - name: "Rafael Shaker"
+      - name: "Rafael Schaker"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/RafaelS.jpeg
         social:
           - url: https://github.com/Rafael-Schaker
             icon: fab fa-github
           - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
-            icon: fab fa-linkedin-in
-      - name: "Thiago Borges"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/ThiagoB.png
-        social:
-          - url: https://github.com/thiagoab02
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/thiago-aborges/
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2020"

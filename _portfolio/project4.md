@@ -32,11 +32,7 @@ text: <p align="justify">O SecTeam tem como propósito principal estudar, compre
 
       <ul align="left">
 
-        <li>Henrique Derlam</li>
-
         <li>Pedro Filippi</li>
-
-        <li>Thiago Borges</li>
 
       </ul>
 

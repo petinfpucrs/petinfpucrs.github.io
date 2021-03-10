@@ -36,12 +36,10 @@ text: <p align="justify">Como parte do projeto de divulgação do PET-Informáti
       <ul align="left">
 
         <li>Jessé Rodrigues</li>
-        
-        <li>Pedro Machado</li>
 
         <li>Waldyr Schneider</li>
 
       </ul>
 
-      <p align="right">Última atualização&#58 23/09/2020</p>
+      <p align="right">Última atualização&#58 10/03/2021</p>
 ---
