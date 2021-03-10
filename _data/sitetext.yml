@@ -23,8 +23,8 @@ services:
                 <li>Edital 2021/1 - Em breve</li>
 
             </ul>
-        button: Em breve
-        buttonlink: # "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
+        # button: Em breve
+        # buttonlink: # "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
