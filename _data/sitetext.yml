@@ -23,7 +23,7 @@ services:
                 <li>Edital 2021/1 - Em breve</li>
 
             </ul>
-        # button: Em breve
+        # button: Inscrever-se
         # buttonlink: # "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
@@ -153,11 +153,11 @@ contact:
 footer:
     legal: "Política de Privacidade"
     social:  
-#       - url: https://facebook.com
+#       - url: https://www.facebook.com/petinf.pucrs/
 #         icon: "fab fa-facebook-f"
       - url: https://github.com/petinfpucrs
         icon: "fab fa-github"
-#       - url: https://instagram.com
+#       - url: https://www.instagram.com/petinfpucrs/
 #         icon: "fab fa-instagram"
 
 

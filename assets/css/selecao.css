@@ -12,3 +12,11 @@
 #header-selecao {
   background-image: linear-gradient(to bottom right, #39d8a4, #3d78e1);
 }
+
+
+
+@media (max-width: 568px) {
+  #titulo-homepage {
+    font-size: 30px;
+  }
+}
