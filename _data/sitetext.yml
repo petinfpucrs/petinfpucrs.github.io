@@ -153,12 +153,11 @@ contact:
 footer:
     legal: "Política de Privacidade"
     social:  
-#       - url: https://www.facebook.com/petinf.pucrs/
-#         icon: "fab fa-facebook-f"
+      - url: https://www.facebook.com/petinf.pucrs/
+        icon: "fab fa-facebook-f"
       - url: https://github.com/petinfpucrs
         icon: "fab fa-github"
-#       - url: https://www.instagram.com/petinfpucrs/
-#         icon: "fab fa-instagram"
-
+      - url: https://www.instagram.com/petinfpucrs/
+        icon: "fab fa-instagram"
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
