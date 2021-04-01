@@ -20,11 +20,11 @@ services:
             
             <ul>
 
-                <li>Edital 2021/1 - Aberto</li>
+                <li>Edital 2021/1 - Em andamento</li>
 
             </ul>
-        button: Inscrever-se
-        buttonlink: "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
+        #button: Inscrever-se
+        #buttonlink: "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
