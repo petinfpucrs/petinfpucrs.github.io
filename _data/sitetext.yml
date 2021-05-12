@@ -104,7 +104,23 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
-    people:
+    petianos:
+      - name: "Arthur Ilha"
+        role: "<b>Sistemas de Informação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/ArthurIlha.jpg
+        social:
+          - url: https://github.com/arthurilha
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/arthur-battistel-ilha-b3121b211/
+            icon: fab fa-linkedin-in
+      - name: "Diegho Crestani"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/DieghoC.jpg
+        social:
+          - url: https://github.com/Dieghoo
+            icon: fab fa-github
+          - url: http://linkedin.com/in/diegho-crestani-4a02a220a
+            icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 07/2020"
         image: assets/img/team/JesseR.png
@@ -113,6 +129,14 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/jessé-rodrigues-8522031b4
             icon: fab fa-linkedin-in
+      - name: "João Boer"
+        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/JoaoB.jpg
+        social:
+          - url: https://github.com/JoaoVitorBoer
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/jo%C3%A3o-vitor-boer-abitante-837b19210/
+            icon: fab fa-linkedin-in
       - name: "Lucas Buffet"
         role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2020"
         image: assets/img/team/LucasB.jpg
@@ -120,6 +144,22 @@ team:
           - url: https://github.com/lebuffet02
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lucas-buffet-28b7061b4/
+            icon: fab fa-linkedin-in
+      - name: "Luiz Buzzacaro"
+        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/LuizB.jpg
+        social:
+          - url: https://github.com/Buzzaz01
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/luiz-ribeiro-buzzacaro-582703143/
+            icon: fab fa-linkedin-in
+      - name: "Luiza Valentini"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/LuizaV.jpg
+        social:
+          - url: https://github.com/luizavalentini
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/luiza-valentini-143299aa
             icon: fab fa-linkedin-in
       - name: "Pedro Filippi"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
@@ -136,6 +176,22 @@ team:
           - url: https://github.com/Rafael-Schaker
             icon: fab fa-github
           - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
+            icon: fab fa-linkedin-in
+      - name: "Rijckard Rommel"
+        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/Riji.jpeg
+        social:
+          - url: https://github.com/Rijckard1
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
+            icon: fab fa-linkedin-in
+      - name: "Thiago Trautwein"
+        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+        image: assets/img/team/ThiagoT.jpg
+        social:
+          - url: https://github.com/ThiagoTrautwein
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/thiago-trautwein-santos-437288211/
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2020"
