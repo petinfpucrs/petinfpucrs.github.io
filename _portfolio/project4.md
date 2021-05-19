@@ -62,6 +62,11 @@ text: <p align="justify">"Que a Segurança da Informação é uma área importan
 
       </ul>
 
+      <br>
+
+      <p align="left"><b>Email para contato&#58 weasels.conseg@gmail.com</b></p>
+      <hr>
+
       <p align="right">Última atualização&#58 17/05/2021</p>
 
 ---

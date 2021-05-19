@@ -41,5 +41,6 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) �
 
       </ul>
       
+      <hr>
       <p align="right">Última atualização&#58 10/03/2021</p>
 ---

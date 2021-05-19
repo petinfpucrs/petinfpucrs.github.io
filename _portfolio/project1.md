@@ -26,6 +26,7 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
 
       </ul>
 
+      <hr>
       <p align="right">Última atualização&#58 23/09/2020</p>
 
 ---

@@ -41,5 +41,6 @@ text: <p align="justify">Como parte do projeto de divulgação do PET-Informáti
 
       </ul>
 
+      <hr>
       <p align="right">Última atualização&#58 10/03/2021</p>
 ---
