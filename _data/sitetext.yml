@@ -29,6 +29,15 @@ services:
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
   
+
+
+talks:
+    title: "PET-Talks"
+    text: "Ciclo de Palestras do PET-Informática"
+    section: talks
+
+
+
 portfolio:
     title: "Projetos"
     text: "Veja os trabalhos em desenvolvimento!"

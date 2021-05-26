@@ -1,0 +1,83 @@
+@media (min-width: 992px) {
+    .descricao {
+        border-right-style: solid; 
+        border-color: gray;
+    }
+}
+
+.talks-carrossel {
+    text-align: -webkit-center;
+}
+
+.img-carrossel {
+    max-width: 350px;
+}
+
+.carousel-item {
+    margin-top: 2rem;
+}
+
+/* controles-setas */
+
+.carousel-control-next,
+.carousel-control-prev {
+    z-index: 15;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-image: url(/assets/img/talks/seta.png);
+}
+
+.carousel-control-prev-icon {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.carousel-indicators {
+    position: relative;
+    margin-bottom: 0;
+}
+
+.carousel-indicators li {
+    background-color: black;
+}
+
+/* Texto à esquerda */
+
+@media (min-width: 992px) {
+    .texto-talks{
+        margin: 2rem;
+    }
+}
+
+/* hover-imagem-divulgação */
+
+.projetos-link {
+    position: relative;
+    display: block;
+    max-width: 350px;
+}
+
+.talks-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    transition: all ease 0.5s;
+    opacity: 0;
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.talks-hover:hover {
+    opacity: 1;
+}
+
+@media (min-width: 768px) {
+    .portfolio-modal .modal-content img {
+        max-width: 510px;
+    }
+}

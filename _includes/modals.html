@@ -52,3 +52,47 @@
   </div>
 {% endfor %}
 <!-- End Portfolio Modals -->
+
+<!-- PET-Talks Modals-->
+
+{% for evento in site.data.lista-eventos.eventos %}
+<div class="portfolio-modal modal fade" id="evento" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <!--<div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>-->
+      <div class="modal-body" style="text-align: center;">
+        <div class="container">
+          <h3>{{ evento.nome }}</h3>
+          <h5 class="item-intro text-muted">{{ evento.palestrante }}</h5>
+          <hr>
+          <br>
+          <p style="text-align: justify;">{{ evento.legenda }}</p>
+          <br>
+          <img class="img-fluid d-block mx-auto" src="{{ evento.imagem }}" alt="imagem-evento">
+          <br>
+          <p>As palestras serão abertas ao público. Link para o Zoom: <a href="https://tinyurl.com/pettalks" target="_blank">https://tinyurl.com/pettalks</a>. Participe!</p>
+          <p>{{ evento.data }}</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="button col-lg-12 mx-auto">
+          <button class="btn btn-primary" data-dismiss="modal" type="button">
+          <i class="fas fa-angle-left"></i>
+          Voltar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<!-- End PET-Talks Modals -->

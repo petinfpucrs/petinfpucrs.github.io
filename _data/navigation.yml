@@ -2,6 +2,9 @@ nav:
   - title: "Sobre"
     section: services  
 
+  - title: "Talks"
+    section: talks
+
   - title: "Projetos"
     section: portfolio
     
