@@ -1,6 +1,6 @@
 header:
-    #title:
-    #text: 
+    title: Escola Politécnica - PUCRS
+    text: PET Informática 
     #button: Projetos
     #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
@@ -85,18 +85,6 @@ timeline:
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-#       - title: "Jekyll Theme is created"
-#         year: "2019"
-#         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-#         image: assets/img/timeline/3.jpg
-#         alt: image alt text
-#         #align: #default is left       
-#       - title: "Title"
-#         year: "2009-2011"
-#         desc: "Your description here, **Markdown** is fully supported."
-#         image: assets/img/timeline/4.jpg
-#         alt: 
-#         align: right
     end: "Faça parte <br> da nossa <br> história!"
     
 team:
@@ -224,5 +212,6 @@ footer:
         icon: "fab fa-github"
       - url: https://www.instagram.com/petinfpucrs/
         icon: "fab fa-instagram"
-
+      - url: https://www.youtube.com/channel/UCXV9sR-jPpBUiCKUX3rJG6A
+        icon: "fab fa-youtube"
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

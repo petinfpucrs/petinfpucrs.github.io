@@ -1,72 +1,93 @@
-<!-- Portfolio Grid -->
-<section class="page-section" id="{{ site.data.sitetext.talks.section | default: "talks" }}">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.talks.title | markdownify | default: "PET-Talks" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.talks.text | markdownify }}</h3>
-        </div>
-      </div>
-      <div class="row">
-
-        <div class="col-lg-6 descricao">
-          <div class="text-muted texto-talks">
-            <p style="text-align: justify;">O PET-Talks é uma atividade do PET-Informática que consiste em organizar palestras durante o semestre para a comunidade acadêmica.</p>
-            <p style="text-align: justify;">Próxima palestra:</p>
-            <ul>
-
-              <li>02/06 - O fator sorte numa carreira de sucesso - Maurício Nunes, Gerente de Engenharia no Facebook</li>
-    
-            </ul>
-            <br><br>
-            <p style="text-align: justify;">Saiba mais sobre o próximo evento clicando na foto de divulgação!</p>
-          </div>
-        </div>
-        <div class="col-lg-6 talks-carrossel">
-        
-          <div id="carouselExampleIndicators" class="carousel slide">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <a class="projetos-link" data-toggle="modal" href="#evento">
-                  <div class="talks-hover">
-                    <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
-                    </div>
-                  </div>
-                  <img class="d-block w-100 img-carrossel" src="assets/img/talks/PET-Talks_Feed.png" alt="Primeiro Slide">
-                </a>       
-              </div>
-
-              <!--<div class="carousel-item">
-                <img class="d-block w-100 img-carrossel" src="" alt="Segundo Slide">
-              </div>
-              <div class="carousel-item">
-                <img class="d-block w-100 img-carrossel" src="" alt="Terceiro Slide">
-              </div>-->
-
-            </div>
-
-            <!--<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Anterior</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Próximo</span>
-            </a>-->
-
-            <ol class="carousel-indicators">
-              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-
-              <!--<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>-->
-
-            </ol>
-          </div>
-
-        </div>
+<!-- Talks-section -->
+<section class="page-section" id="{{ site.data.sitetext.talks.section | default: "talks" }}" style="background-color:#212529">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase" style="color: #1662ab">{{ site.data.sitetext.talks.title | markdownify | default: "PET-Talks" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.talks.text | markdownify }}</h3>
       </div>
     </div>
-  </section>
 
-  {% include modals.html %}
+    
+    <div class="row">
+      
+      <!-- left-column -->
+      <div class="col-lg-6 descricao">
+        <div class="text-muted texto-talks">
+          <p style="text-align: justify;">O PET-Talks é uma atividade do PET-Informática que consiste em organizar palestras durante o semestre para a comunidade acadêmica.</p>
+          <p style="text-align: justify;">Palestras:</p>
+          <ul>
+            {% for evento in site.data.pet-talks.eventos %}
+              {% if forloop.last == true %}
+                <li style="color: #1662ab"><strong>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</strong></li>
+              {% else %}
+                <li>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+          <br><br>
+          <p style="text-align: justify;">Saiba mais sobre o próximo evento clicando na foto de divulgação!</p>
+        </div>
+      </div>
+      <!-- end-left-column -->
+
+      <!-- right-column-->
+      <div class="col-lg-6 talks-carrossel">     
+        <div id="carouselExampleIndicators" class="carousel slide" data-interval="false">
+          <div class="carousel-inner">
+            {% for evento in site.data.pet-talks.eventos %}
+              <!-- last-item -->
+              {% if forloop.last == true %}
+                <div class="carousel-item active">
+                  <a class="projetos-link" data-toggle="modal" href="#e{{ forloop.length }}">
+                    <div class="talks-hover">
+                      <div class="portfolio-hover-content">
+                        <i class="fas fa-plus fa-3x"></i>
+                      </div>
+                    </div>
+                    <img class="d-block w-100 img-carrossel" src="{{ evento.imagem }}" alt="Primeiro Slide">
+                  </a>       
+                </div>
+                <!-- loop -->
+                {% else %}
+                <div class="carousel-item">
+                  <a class="projetos-link" data-toggle="modal" href="#e{{ forloop.index }}">
+                    <div class="talks-hover">
+                      <div class="portfolio-hover-content">
+                        <i class="fas fa-plus fa-3x"></i>
+                      </div>
+                    </div>
+                    <img class="d-block w-100 img-carrossel" src="{{ evento.imagem }}" alt="Primeiro Slide">
+                  </a>       
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          <!-- next-prev-buttons -->
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+          </a>
+          <!-- indicators -->
+          <ol class="carousel-indicators">
+            {% for evento in site.data.pet-talks.eventos %}
+              {% if forloop.last == true %}
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
+              {% else %}
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+        <!-- end-carousel --> 
+        </div>
+      <!-- end-right-column -->
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include modals.html %}

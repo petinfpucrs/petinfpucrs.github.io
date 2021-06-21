@@ -55,8 +55,8 @@
 
 <!-- PET-Talks Modals-->
 
-{% for evento in site.data.lista-eventos.eventos %}
-<div class="portfolio-modal modal fade" id="evento" tabindex="-1" role="dialog" aria-hidden="true">
+{% for evento in site.data.pet-talks.eventos %}
+<div class="portfolio-modal modal fade" id="e{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
@@ -64,25 +64,26 @@
           <div class="rl"></div>
         </div>
       </div>
-      <!--<div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>-->
+      <!-- modal-body -->
       <div class="modal-body" style="text-align: center;">
         <div class="container">
-          <h3>{{ evento.nome }}</h3>
+          <h3>{{ evento.titulo }}</h3>
           <h5 class="item-intro text-muted">{{ evento.palestrante }}</h5>
           <hr>
           <br>
-          <p style="text-align: justify;">{{ evento.legenda }}</p>
+          <p style="text-align: justify;">Bio: {{ evento.legenda }}</p>
           <br>
           <img class="img-fluid d-block mx-auto" src="{{ evento.imagem }}" alt="imagem-evento">
           <br>
-          <p>As palestras serão abertas ao público. Link para o Zoom: <a href="https://tinyurl.com/pettalks" target="_blank">https://tinyurl.com/pettalks</a>. Participe!</p>
-          <p>{{ evento.data }}</p>
+          {% if forloop.last == true %}
+            <p>A palestra é aberta ao público e vale uma hora de atividade complementar para os alunos. Link para o Zoom: <a href="{{ site.data.pet-talks.link }}" target="_blank">{{ site.data.pet-talks.link }}</a>. Participe!</p>
+            {% else %}
+            <p>Vaja as palestras do PET-Talks em nosso <a href="https://www.youtube.com/playlist?list=PLUt3M2OJ6A_GKtrsMIZ1KdYI-migFJdpM" target="_blank">canal do Youtube</a>!</p>
+          {% endif %}
+          <p>{{ evento.data }} - {{ site.data.pet-talks.hora }}</p>
         </div>
       </div>
+      <!-- end-modal-body -->
       <div class="row">
         <div class="button col-lg-12 mx-auto">
           <button class="btn btn-primary" data-dismiss="modal" type="button">

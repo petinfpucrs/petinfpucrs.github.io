@@ -1,3 +1,19 @@
+#talks {
+    /*background-color: #212529;*/
+    background-image: url(/assets/img/talks/fundo-talks.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#talks p, #talks li{
+    color:white;
+}
+
+#talks li {
+    margin-bottom: inherit;
+}
+
 @media (min-width: 992px) {
     .descricao {
         border-right-style: solid; 
