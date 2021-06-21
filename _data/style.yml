@@ -4,5 +4,5 @@ white: "#ffffff"
 black: "#000"
 
 #Image Customization
-header-image: "/assets/img/talks/fundo-header.jpg" #"../img/Teste6.png"
+header-image: "https://raw.githubusercontent.com/petinfpucrs/petinfpucrs.github.io/master/assets/img/talks/Fundo-header.jpg" #"../img/Teste6.png"
 contact-image: "../img/circuito.jpg"
