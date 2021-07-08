@@ -1,5 +1,19 @@
-link: https://tinyurl.com/pettalks
-hora: '17:30' 
+link: https://tinyurl.com/pettalks  # link da palestra
+hora: '17:30'                       # hora da palestra no formato '00:00'
+
+agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
+                   # se desativado, coloca apenas as informações básicas e link para youtube. 
+                   # código completo em _includes/talks.html e _includes/modals.html (56-103)
+
+
+# para adicionar novo evento:
+
+# - titulo:
+#   data:
+#   palestrante:
+#   legenda:
+#   imagem: assets/img/talks/(nome e extensão do arquivo adicionado em assets/img/talks (de preferencia 510x510, jpg))
+
 
 eventos:
 

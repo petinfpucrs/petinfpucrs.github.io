@@ -19,7 +19,11 @@
           <ul>
             {% for evento in site.data.pet-talks.eventos %}
               {% if forloop.last == true %}
-                <li style="color: #1662ab"><strong>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</strong></li>
+                {% if site.data.pet-talks.agenda == "ativado" %}
+                  <li style="color: #1662ab"><strong>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</strong></li>
+                  {% else %} 
+                    <li>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</li>
+                {% endif %} 
               {% else %}
                 <li>{{ evento.data }} - {{ evento.titulo }} - {{ evento.palestrante }}</li>
               {% endif %}

@@ -75,12 +75,16 @@
           <br>
           <img class="img-fluid d-block mx-auto" src="{{ evento.imagem }}" alt="imagem-evento">
           <br>
-          {% if forloop.last == true %}
-            <p>A palestra é aberta ao público e vale uma hora de atividade complementar para os alunos. Link para o Zoom: <a href="{{ site.data.pet-talks.link }}" target="_blank">{{ site.data.pet-talks.link }}</a>. Participe!</p>
+          {% if forloop.last == true %} <!-- faz o teste apenas com o último item de eventos -->
+            {% if site.data.pet-talks.agenda == "ativado" %}
+              <p>A palestra é aberta ao público e vale uma hora de atividade complementar para os alunos. Link para o Zoom: <a href="{{ site.data.pet-talks.link }}" target="_blank">{{ site.data.pet-talks.link }}</a>. Participe!</p>
+              <p>{{ evento.data }} - {{ site.data.pet-talks.hora }}</p>
+              {% else %}
+              <p>Veja as palestras do PET-Talks em nosso <a href="https://www.youtube.com/channel/UCXV9sR-jPpBUiCKUX3rJG6A" target="_blank">canal do Youtube</a>!</p>
+            {% endif %}
             {% else %}
-            <p>Vaja as palestras do PET-Talks em nosso <a href="https://www.youtube.com/playlist?list=PLUt3M2OJ6A_GKtrsMIZ1KdYI-migFJdpM" target="_blank">canal do Youtube</a>!</p>
+            <p>Veja as palestras do PET-Talks em nosso <a href="https://www.youtube.com/channel/UCXV9sR-jPpBUiCKUX3rJG6A" target="_blank">canal do Youtube</a>!</p>
           {% endif %}
-          <p>{{ evento.data }} - {{ site.data.pet-talks.hora }}</p>
         </div>
       </div>
       <!-- end-modal-body -->
