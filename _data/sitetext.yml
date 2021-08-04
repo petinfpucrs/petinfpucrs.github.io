@@ -110,14 +110,6 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/arthur-battistel-ilha-b3121b211/
             icon: fab fa-linkedin-in
-      - name: "Diegho Crestani"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/DieghoC.jpg
-        social:
-          - url: https://github.com/Dieghoo
-            icon: fab fa-github
-          - url: http://linkedin.com/in/diegho-crestani-4a02a220a
-            icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 07/2020"
         image: assets/img/team/JesseR.png
@@ -198,6 +190,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/waldyr-schneider/
             icon: fab fa-linkedin-in
+            
 contact:
     title: "Fale Conosco"
     text: "Envie um email para petinf.pucrs@gmail.com"
