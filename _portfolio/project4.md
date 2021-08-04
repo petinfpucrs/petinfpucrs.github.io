@@ -54,8 +54,6 @@ text: <p align="justify">"Que a Segurança da Informação é uma área importan
 
       <ul align="left">
 
-        <li>Diegho Crestani</li>
-
         <li>Lucas Buffet</li>
 
         <li>Rafael Schaker</li>
