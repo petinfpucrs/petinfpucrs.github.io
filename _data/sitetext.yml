@@ -24,7 +24,7 @@ services:
 
             </ul>
         #button: Inscrever-se
-        #buttonlink: "https://petinfpucrs.github.io/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
+        #buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"

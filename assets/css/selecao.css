@@ -10,10 +10,22 @@
 }
 
 #header-selecao {
-  background-image: linear-gradient(to bottom right, #39d8a4, #3d78e1);
+  /*background-image: linear-gradient(to bottom right, #39d8a4, #3d78e1);*/
+  background-image: url(/assets/img/selecao-header.jpg);
+  background-size: cover;
 }
 
+@media (min-width: 992px) {
+  .jcard {
+    width: 50%;
+  }
+}
 
+.jcard {
+  align-items: center;
+  margin: auto;
+  border-radius: 15px;
+}
 
 @media (max-width: 568px) {
   #titulo-homepage {

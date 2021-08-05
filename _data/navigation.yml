@@ -15,7 +15,7 @@ nav:
     section: team
 
   #- title: "Seleção"
-  #  url: https://petinfpucrs.github.io/selecao
+  #  url: /selecao
 
   - title: "Contato"
     section: contact
