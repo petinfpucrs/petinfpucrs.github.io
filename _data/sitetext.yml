@@ -21,7 +21,7 @@ services:
             <ul>
 
                 <li>Edital 2021/1 - Encerrado</li>
-                <li><Edital 2021/2 - Encerrado</li>
+                <li>Edital 2021/2 - Encerrado</li>
 
             </ul>
        # buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
