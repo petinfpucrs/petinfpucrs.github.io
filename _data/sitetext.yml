@@ -21,12 +21,11 @@ services:
             <ul>
 
                 <li>Edital 2021/1 - Encerrado</li>
-                <li><b>Edital 2021/2 - Em andamento <br> Inscrições até 30/08</b></li>
+                <li><Edital 2021/2 - Encerrado</li>
 
             </ul>
-        button: Inscrever-se
-        buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
-        icon: fas fa-users
+       # buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
+        #icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
   
