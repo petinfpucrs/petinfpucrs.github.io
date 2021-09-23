@@ -110,13 +110,13 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/arthur-battistel-ilha-b3121b211/
             icon: fab fa-linkedin-in
-      - name: "Jessé Rodrigues"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 07/2020"
-        image: assets/img/team/JesseR.png
+      - name: "Guilherme Kollet"
+        role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/GuilhermeK.png
         social:
-          - url: https://github.com/JesseSRodrigues
+          - url: https://github.com/guilhermekollet
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/jessé-rodrigues-8522031b4
+          - url: https://www.linkedin.com/in/guilherme-serafim-kollet-73946335/
             icon: fab fa-linkedin-in
       - name: "João Boer"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
