@@ -134,13 +134,13 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lucas-indrusiak-de-barros-33081a205/
             icon: fab fa-linkedin-in      
-      - name: "Lucas Buffet"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2020"
-        image: assets/img/team/LucasB.jpg
+      - name: "Lucas Ehara"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/LucasE.png
         social:
           - url: https://github.com/lebuffet02
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/lucas-buffet-28b7061b4/
+          - url: https://www.linkedin.com/in/lucas-ehara-4b6b2b204/
             icon: fab fa-linkedin-in
       - name: "Luiz Buzzacaro"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
@@ -182,14 +182,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/thiago-trautwein-santos-437288211/
             icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2020"
-        image: assets/img/team/WaldyrS.png
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
+      
             
 contact:
     title: "Fale Conosco"
