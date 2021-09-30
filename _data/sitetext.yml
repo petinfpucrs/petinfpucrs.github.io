@@ -138,7 +138,7 @@ team:
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
         image: assets/img/team/LucasE.png
         social:
-          - url: https://github.com/lebuffet02
+          - url: https://github.com/LucasEhara
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lucas-ehara-4b6b2b204/
             icon: fab fa-linkedin-in
