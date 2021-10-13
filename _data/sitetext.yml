@@ -112,7 +112,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Guilherme Kollet"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/GuilhermeSeK.jpg
+        image: assets/img/team/GuilhermeSeKK.jpg
         social:
           - url: https://github.com/guilhermekollet
             icon: fab fa-github
