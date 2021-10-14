@@ -182,14 +182,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
             icon: fab fa-linkedin-in
-      - name: "Thiago Trautwein"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/ThiagoT.jpg
-        social:
-          - url: https://github.com/ThiagoTrautwein
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/thiago-trautwein-santos-437288211/
-            icon: fab fa-linkedin-in
+      
       
             
 contact:
