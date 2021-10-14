@@ -128,7 +128,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Leandra Torbes"
         role: "<b>Ciência de Dados e IA</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/LeandraT.jpeg
+        image: assets/img/team/LeandraT.jpg
         social:
           - url: https://github.com/ltorbes
             icon: fab fa-github
