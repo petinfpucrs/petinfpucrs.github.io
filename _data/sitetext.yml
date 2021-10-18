@@ -110,6 +110,14 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/arthur-battistel-ilha-b3121b211/
             icon: fab fa-linkedin-in
+      - name: "Denilson Kersting"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/Denilson.png
+        social:
+          - url: https://github.com/DenilsonKersting
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/denilson-kersting-araújo
+            icon: fab fa-linkedin-in      
       - name: "Guilherme Kollet"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeSeKK.jpg
