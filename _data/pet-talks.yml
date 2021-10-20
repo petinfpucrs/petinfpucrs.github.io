@@ -9,8 +9,7 @@ agenda: #ativado    # se ativado, preenche as informações do último evento ad
     palestrante: Marco Netto, Pesquisador da IBM Research Brasil.
     legenda: Marco Netto é Alumni PUCRS do curso de Ciência da Computação, pesquisador da IBM Research Brasil, gerente do grupo de cloud desde 2013 e inventor ativo com mais de 100 depósitos de patentes nos Estados Unidos, com invenções em diversas áreas, incluindo Cloud, AI, Data Analytics, IoT, UX e DevOps. Também, é um dos grandes colaboradores para trazer a IBM Brasil no topo da lista de empresas no Brasil com patentes nos Estados Unidos, mentorizando centenas de inventores.
     imagem: assets/img/talks/PET-Talks-3_Feed.jpg
-    link: http://tiny.cc/pettalks
-    hora: '18:00'
+    
 
 # para adicionar novo evento:
 
