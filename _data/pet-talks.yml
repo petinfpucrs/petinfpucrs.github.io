@@ -1,5 +1,5 @@
-link: https://tinyurl.com/pettalks  # link da palestra
-hora: '17:30'                       # hora da palestra no formato '00:00'
+link: http://tiny.cc/pettalks  # link da palestra
+hora: '18:00'                       # hora da palestra no formato '00:00'
 
 agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
                    # se desativado, coloca apenas as informações básicas e link para youtube. 
@@ -28,3 +28,10 @@ eventos:
     palestrante: Bruno Bulso, Diretor de Operações na Kobe.
     legenda: Bruno Bulso é Alumni PUCRS do curso de Sistemas de Informação com ênfase em desenvolvimento de aplicativos mobile, Diretor de Operações da Kobe e co-fundador da Kobe, startup focada em criar soluções inovadoras para encantar consumidores por meio de experiências incríveis. Com mais de oito anos de experiência no setor de tecnologia, ele lidera equipes na criação de produtos digitais, aplicando técnicas utilizadas pelas empresas e startups mais bem sucedidas no mercado. Possui MBA em Marketing, Gestão, empreendedorismo e em Gerenciamento de projetos em negócios digitais.
     imagem: assets/img/talks/PET-Talks-2_Feed.jpg
+
+  - titulo: CARREIRA DE PESQUISADOR NA INDÚSTRIA
+    data: 27/10/2021
+    palestrante: Marco Netto, Pesquisador da IBM Research Brasil.
+    legenda: Marco Netto é Alumni PUCRS do curso de Ciência da Computação, pesquisador da IBM Research Brasil, gerente do grupo de cloud desde 2013 e inventor ativo com mais de 100 depósitos de patentes nos Estados Unidos, com invenções em diversas áreas, incluindo Cloud, AI, Data Analytics, IoT, UX e DevOps. Também, é um dos grandes colaboradores para trazer a IBM Brasil no topo da lista de empresas no Brasil com patentes nos Estados Unidos, mentorizando centenas de inventores.
+    imagem: assets/img/talks/PET-Talks_Feed3.jpg
+    
