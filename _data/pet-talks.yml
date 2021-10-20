@@ -4,7 +4,13 @@ hora: '18:00'                       # hora da palestra no formato '00:00'
 agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
                    # se desativado, coloca apenas as informações básicas e link para youtube. 
                    # código completo em _includes/talks.html e _includes/modals.html (56-103)
-
+  - titulo: CARREIRA DE PESQUISADOR NA INDÚSTRIA
+    data: 27/10/2021
+    palestrante: Marco Netto, Pesquisador da IBM Research Brasil.
+    legenda: Marco Netto é Alumni PUCRS do curso de Ciência da Computação, pesquisador da IBM Research Brasil, gerente do grupo de cloud desde 2013 e inventor ativo com mais de 100 depósitos de patentes nos Estados Unidos, com invenções em diversas áreas, incluindo Cloud, AI, Data Analytics, IoT, UX e DevOps. Também, é um dos grandes colaboradores para trazer a IBM Brasil no topo da lista de empresas no Brasil com patentes nos Estados Unidos, mentorizando centenas de inventores.
+    imagem: assets/img/talks/PET-Talks-3_Feed.jpg
+    link: http://tiny.cc/pettalks
+    hora: '18:00'
 
 # para adicionar novo evento:
 
