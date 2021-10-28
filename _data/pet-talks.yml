@@ -1,7 +1,7 @@
 link: http://tiny.cc/pettalks  # link da palestra
 hora: '18:00'                       # hora da palestra no formato '00:00'
 
-agenda: ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
+agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
                    # se desativado, coloca apenas as informações básicas e link para youtube. 
                    # código completo em _includes/talks.html e _includes/modals.html (56-103)
   
