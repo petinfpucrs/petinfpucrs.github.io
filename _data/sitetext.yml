@@ -150,14 +150,6 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/ 
             icon: fab fa-linkedin-in
-      - name: "Lucas Barros"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021" 
-        image: assets/img/team/LucasBarross.jpg
-        social: 
-          - url: https://github.com/LBarros98
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/lucas-indrusiak-de-barros-33081a205/
-            icon: fab fa-linkedin-in      
       - name: "Lucas Ehara"
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
         image: assets/img/team/LucasE2.png
