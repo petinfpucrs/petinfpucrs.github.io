@@ -102,14 +102,6 @@ team:
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     petianos:
-      - name: "Arthur Ilha"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/ArthurIlha.jpg
-        social:
-          - url: https://github.com/arthurilha
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/arthur-battistel-ilha-b3121b211/
-            icon: fab fa-linkedin-in
       - name: "Denilson Kersting"
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
         image: assets/img/team/Denilson.png
