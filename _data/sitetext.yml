@@ -102,6 +102,14 @@ team:
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     petianos:
+    - name: "Guilherme Romanini"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/GuilhermeR.jpg
+        social:
+          - url: https://github.com/kuticoski
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/guilherme-romanini/
+            icon: fab fa-linkedin-in 
       - name: "Denilson Kersting"
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
         image: assets/img/team/Denilson.png
