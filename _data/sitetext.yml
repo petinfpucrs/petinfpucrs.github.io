@@ -103,7 +103,7 @@ team:
             icon: fab fa-linkedin-in
     petianos:
     - name: "Guilherme Romanini"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeR.jpg
         social:
           - url: https://github.com/kuticoski
