@@ -1,4 +1,4 @@
-link: http://tiny.cc/pettalks  # link da palestra
+link: http://tiny.cc/pettalks  # link da atual palestra
 hora: '18:00'                       # hora da palestra no formato '00:00'
 
 agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
