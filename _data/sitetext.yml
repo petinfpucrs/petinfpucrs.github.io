@@ -102,14 +102,6 @@ team:
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     petianos:     
-      - name: "Guilherme Kollet"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/GuilhermeSeKK.jpg
-        social:
-          - url: https://github.com/guilhermekollet
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/guilherme-serafim-kollet-73946335/
-            icon: fab fa-linkedin-in
       - name: "Guilherme Romanini"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeR.jpg
@@ -167,7 +159,7 @@ team:
           - url: https://www.linkedin.com/in/luiza-valentini-143299aa
             icon: fab fa-linkedin-in
       - name: "Rafael Schaker"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/RafaelS.jpeg
         social:
           - url: https://github.com/Rafael-Schaker
