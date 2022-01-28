@@ -101,15 +101,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
-    petianos:
-      - name: "Érico Panassol"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/EricoP.jpg
-        social:
-          - url: https://github.com/EricoPanassol
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
-           icon: fab fa-linkedin-in      
+    petianos:    
       - name: "Guilherme Romanini"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeR.jpg
@@ -117,7 +109,15 @@ team:
           - url: https://github.com/kuticoski
             icon: fab fa-github
           - url: https://www.linkedin.com/in/guilherme-romanini/
-            icon: fab fa-linkedin-in       
+            icon: fab fa-linkedin-in  
+      - name: "Guilherme Romanini"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/GuilhermeR.jpg
+        social:
+          - url: https://github.com/kuticoski
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/guilherme-romanini/
+            icon: fab fa-linkedin-in     
       - name: "João Boer"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
         image: assets/img/team/JoaoB.jpg
