@@ -2,7 +2,7 @@ header:
     title: Escola Politécnica - PUCRS
     text: PET Informática 
     #button: Projetos
-    #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
+    #buttonlink: "#portfolio" # "#{section}" or "URL/page link" Teste
 
 services:
     title: "PET-Informática"
