@@ -101,7 +101,15 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
-    petianos:     
+    petianos:
+      - name: "Érico Panassol"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
+        image: assets/img/team/EricoP.jpg
+        social:
+          - url: https://github.com/EricoPanassol
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
+           icon: fab fa-linkedin-in      
       - name: "Guilherme Romanini"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeR.jpg
