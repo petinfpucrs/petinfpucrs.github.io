@@ -2,7 +2,7 @@ header:
     title: Escola Politécnica - PUCRS
     text: PET Informática 
     #button: Projetos
-    #buttonlink: "#portfolio" # "#{section}" or "URL/page link" Teste
+    #buttonlink: "#portfolio" # "#{section}" or "URL/page link" 
 
 services:
     title: "PET-Informática"
@@ -101,15 +101,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
-    petianos:
-      - name: "Denilson Kersting"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/Denilson.png
-        social:
-          - url: https://github.com/DenilsonKersting
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/denilson-kersting-araújo
-            icon: fab fa-linkedin-in      
+    petianos:     
       - name: "Guilherme Kollet"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/GuilhermeSeKK.jpg
