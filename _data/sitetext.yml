@@ -22,6 +22,7 @@ services:
 
                 <li>Edital 2021/1 - Encerrado</li>
                 <li>Edital 2021/2 - Encerrado</li>
+                <li>Edital 2022/1 - A ser aberto</li>
 
             </ul>
        # buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
