@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase" style="color: #16ab2f">{{ site.data.sitetext.talks.title | markdownify | default: "PET-Talks" }}</h2>
+        <h2 class="section-heading text-uppercase" style="color: #1662ab">{{ site.data.sitetext.talks.title | markdownify | default: "PET-Talks" }}</h2>
         <h3 class="section-subheading text-muted">{{ site.data.sitetext.talks.text | markdownify }}</h3>
       </div>
     </div>
@@ -14,7 +14,9 @@
       <!-- left-column -->
       <div class="col-lg-6 descricao">
         <div class="text-muted texto-talks">
+          <!-- Sobre o projeto Pet-Talks -->
           <p style="text-align: justify;">O PET-Talks é uma atividade do PET-Informática que consiste em organizar palestras durante o semestre para a comunidade acadêmica.</p>
+          <!-- Introdução das palestras -->
           <p style="text-align: justify;">Palestras:</p>
           <ul>
             {% for evento in site.data.pet-talks.eventos %}
@@ -80,7 +82,7 @@
           <ol class="carousel-indicators">
             {% for evento in site.data.pet-talks.eventos %}
               {% if forloop.last == true %}
-                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
+                <li style="color: #1662ab" data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
               {% else %}
                 <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
               {% endif %}
