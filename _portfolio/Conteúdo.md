@@ -1,7 +1,7 @@
 ---
 title: Conteúdo
 subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
-image: ./assets/img/portfolio/conteudo.png
+image: 
 
 caption:
   title: Conteúdo
