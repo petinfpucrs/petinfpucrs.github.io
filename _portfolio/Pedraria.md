@@ -8,11 +8,11 @@ caption:
   subtitle: Aplicação
   thumbnail: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/capa-bioview.png
 
-text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura moderna e diversidade biológica, gerando à comunidade uma conexão constante entre aspectos tecnológicos e naturais. Pensando nesses conceitos, o BioView é uma aplicação que sugere aos seus usuários a documentação deste meio natural de forma que, além de informar e conectar as pessoas à natureza que está inserida, leva à conscientização sobre o impacto que temos sobre nosso meio ambiente.</p>
+text: <p align="justify">O Campus da PUCRS </p>
 
-      <p align="justify">Inicialmente, o aplicativo deve funcionar como uma enciclopédia, organizando diversas informações sobre a diversidade biológica que se encontra no campus da PUCRS (plantas, insetos, etc). A ideia para o futuro é expandir os locais e adicionar novas funcionalidades para possibilitar a conexão entre os usuários do BioView.</p>
+      <p align="justify">Inicialmente</p>
 
-      <p align="justify">O BioView está em fase de desenvolvimento para Android e IOS com as ferramentas/linguagens a seguir:</p>
+      <p align="justify">O BioView a seguir:</p>
       
       <ul align="left">
 
