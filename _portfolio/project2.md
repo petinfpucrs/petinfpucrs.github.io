@@ -35,12 +35,21 @@ text: <p align="justify">Como parte do projeto de divulgação do PET-Informáti
 
       <ul align="left">
 
-        <li>Jessé Rodrigues</li>
+        <li>Rafael Schaker</li>
 
-        <li>Waldyr Schneider</li>
+        <li>Érico Panassol</li>
 
       </ul>
 
       <hr>
-      <p align="right">Última atualização&#58 10/03/2021</p>
+      <p align="right">Última atualização&#58 02/02/2021</p>
 ---
+<!--
+      <p align="justify">Integrantes do PET-Inf no projeto:</p>
+
+      <ul align="left">
+
+        <li>Nome</li>
+
+      </ul>
+-->

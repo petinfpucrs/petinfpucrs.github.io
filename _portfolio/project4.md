@@ -50,21 +50,18 @@ text: <p align="justify">"Que a Segurança da Informação é uma área importan
 
       </ul>
 
+      <p align="justify">Situação:Congelado</p>
+      
+      
+      <hr>
+      <p align="right">Última atualização&#58 02/02/2022</p>
+---
+<!--      
       <p align="justify">Integrantes do PET-Inf no projeto:</p>
-
+      
       <ul align="left">
 
-        <li>Lucas Buffet</li>
+        <li>NOME DA PESSOA</li>
 
-        <li>Rafael Schaker</li>
-
-      </ul>
-
-      <br>
-
-      <p align="left"><b>Email para contato&#58 weasels.conseg@gmail.com</b></p>
-      <hr>
-
-      <p align="right">Última atualização&#58 17/05/2021</p>
-
----
+      </ul> 
+-->

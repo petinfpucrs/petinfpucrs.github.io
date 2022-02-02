@@ -82,7 +82,7 @@
           <ol class="carousel-indicators">
             {% for evento in site.data.pet-talks.eventos %}
               {% if forloop.last == true %}
-                <li style="color: #1662ab" data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
               {% else %}
                 <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
               {% endif %}

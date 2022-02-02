@@ -31,16 +31,18 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) �
 
       </ul>
 
-      <p align="justify">Integrantes do PET-Inf no projeto:</p>
-
-      <ul align="left">
-
-        <li>Lucas Buffet</li>
-        
-        <li>Rafael Schaker</li>
-
-      </ul>
+      <p align="justify">Situação:Congelado</p>
+      
       
       <hr>
-      <p align="right">Última atualização&#58 10/03/2021</p>
+      <p align="right">Última atualização&#58 02/02/2022</p>
 ---
+<!--      
+      <p align="justify">Integrantes do PET-Inf no projeto:</p>
+      
+      <ul align="left">
+
+        <li>NOME DA PESSOA</li>
+
+      </ul> 
+-->
