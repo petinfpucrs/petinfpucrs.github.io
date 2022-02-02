@@ -1,12 +1,12 @@
 ---
 title: Relacionamento
 subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
-image: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/log%20v0.1.png
+image: https://github.com/Rafael-Schaker/imagens/blob/main/assets/Imagens/relacoes.png?raw=true
 
 caption:
   title: Relacionamento
   subtitle: Grupo
-  thumbnail: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/capa-bioview.png
+  thumbnail: https://github.com/Rafael-Schaker/imagens/blob/main/assets/Imagens/relacoes.png?raw=true
 
 text: <p align="justify">O Campus da PUCRS </p>
 
