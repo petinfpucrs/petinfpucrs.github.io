@@ -1,12 +1,12 @@
 ---
 title: Comunicação
 subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
-image: ./assets/img/portfolio/comunicação.png
+image: ./assets/img/portfolio/comunicacao.png
 
 caption:
   title: Comunicação
   subtitle: Grupo
-  thumbnail: ./assets/img/portfolio/comunicação.png
+  thumbnail: ./assets/img/portfolio/comunicacao.png
 
 text: <p align="justify">O Campus da PUCRS </p>
 
