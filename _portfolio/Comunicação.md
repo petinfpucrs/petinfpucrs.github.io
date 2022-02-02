@@ -6,7 +6,7 @@ image: ./assets/img/portfolio/comunicacao.png  = 100x100
 caption:
   title: Comunicação
   subtitle: Grupo
-  thumbnail: ./assets/img/portfolio/comunicacao.png
+  thumbnail: ./assets/img/portfolio/comunicacao.png = 100x100
 
 text: <p align="justify">O Campus da PUCRS </p>
 
