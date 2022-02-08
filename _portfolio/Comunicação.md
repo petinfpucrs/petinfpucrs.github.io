@@ -28,7 +28,7 @@ text: <p align="justify">Para melhorar a troca de informações entre os petiano
 
       </ul>
 
-      <p align="justify">Situação:Congelado</p>
+      <p align="justify">Situação:Ativo</p>
       
       <p align="justify">Integrantes do PET-Inf neste grupo:</p>
       
