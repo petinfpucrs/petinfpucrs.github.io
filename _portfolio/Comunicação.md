@@ -14,21 +14,21 @@ text: <p align="justify">Para melhorar a troca de informações entre os petiano
       
       <ul align="left">
 
-          <li>Manipulação do Instagram</li>
+          <li>Manipulação do Instagram;</li>
 
-          <li>Manipulação do Youtube</li>
+          <li>Manipulação do Youtube;</li>
 
-          <li>Manipulação do site</li>
+          <li>Manipulação do site;</li>
 
           <li>E algumas linguagens de Front-End:</li>
 
-          <li> - HTML</li>
+          <li> - HTML;</li>
 
-          <li> - CSS</li>
+          <li> - CSS.</li>
 
       </ul>
 
-      <p align="justify">Situação:Ativo</p>
+      <p align="justify"> Situação:Ativo </p>
       
       <p align="justify">Integrantes do PET-Inf neste grupo:</p>
       
