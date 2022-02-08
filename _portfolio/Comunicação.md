@@ -1,6 +1,6 @@
 ---
 title: Comunicação
-subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
+subtitle: Grupo de Petianos, que são responsáveis tanto pelo controle das mídias sociais, quanto do site do Pet-Informática.
 image: 
 
 caption:
@@ -8,28 +8,43 @@ caption:
   subtitle: Grupo
   thumbnail: ./assets/img/portfolio/comunicacao.png
 
-text: <p align="justify">O Campus da PUCRS </p>
+text: <p align="justify">Para melhorar a troca de informações entre os petianos e os estudantes da PUCRS.  </p>
 
-      <p align="justify">Inicialmente</p>
-
-      <p align="justify">O BioView a seguir:</p>
+      <p align="justify">Os estudos desse grupo envolverão:</p>
       
       <ul align="left">
 
-          <li>React</li>
+          <li>Manipulação do Instagram</li>
 
-          <li>Node.js</li>
+          <li>Manipulação do Youtube</li>
 
-          <li>HTML</li>
+          <li>Manipulação do site</li>
 
-          <li>CSS</li>
+          <li>E algumas linguagens de Front-End:</li>
+
+          <li> - HTML</li>
+
+          <li> - CSS</li>
 
       </ul>
 
       <p align="justify">Situação:Congelado</p>
       
+      <p align="justify">Integrantes do PET-Inf neste grupo:</p>
+      
+      <ul align="left">
+
+        <li>Érico Panassol</li>
+        
+        <li>Luiz Buzzacaro</li>
+
+        <li>Leandra Torbes</li>
+
+        <li>Rafael Schaker</li>
+      </ul> 
+
       <hr>
-      <p align="right">Última atualização&#58 02/02/2022</p>
+      <p align="right">Última atualização&#58 08/02/2022</p>
 ---
 <!--      
       <p align="justify">Integrantes do PET-Inf no projeto:</p>
