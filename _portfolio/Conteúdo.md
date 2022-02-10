@@ -1,6 +1,6 @@
 ---
 title: Conteúdo
-subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
+subtitle: Grupo de Petianos, que são responsáveis tanto pelo criação de conteúdos para tanto as mídias sociais, quanto para o site do Pet-Informática.
 image: 
 
 caption:
@@ -8,11 +8,9 @@ caption:
   subtitle: Grupo
   thumbnail: ./assets/img/portfolio/conteudo.png
 
-text: <p align="justify">O Campus da PUCRS </p>
+text: <p align="justify">Para melhorar a troca de informações entre os petianos e os estudantes da PUCRS. </p>
 
-      <p align="justify">Inicialmente</p>
-
-      <p align="justify">O BioView a seguir:</p>
+      <p align="justify">Os estudos desse grupo envolverão:</p>
       
       <ul align="left">
 
@@ -26,8 +24,18 @@ text: <p align="justify">O Campus da PUCRS </p>
 
       </ul>
 
-      <p align="justify">Situação:Congelado</p>
+      <p align="justify">Situação:Ativo</p>
       
+      <p align="justify">Integrantes do PET-Inf neste grupo:</p>
+      
+      <ul align="left">
+
+        <li>Lorenzo Oliveira</li>
+        
+        <li>Lucas Ehara</li>
+
+        <li>Luiza Valentini</li>
+      </ul> 
       <hr>
       <p align="right">Última atualização&#58 02/02/2022</p>
 ---

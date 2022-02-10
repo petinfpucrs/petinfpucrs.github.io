@@ -10,9 +10,7 @@ caption:
 
 text: <p align="justify">O Campus da PUCRS </p>
 
-      <p align="justify">Inicialmente</p>
-
-      <p align="justify">O BioView a seguir:</p>
+      <p align="justify">Os estudos desse grupo envolverão:</p>
       
       <ul align="left">
 
@@ -28,6 +26,18 @@ text: <p align="justify">O Campus da PUCRS </p>
 
       <p align="justify">Situação:Congelado</p>
       
+      <p align="justify">Integrantes do PET-Inf neste grupo:</p>
+      
+      <ul align="left">
+
+        <li>Guilherme Romanini</li>
+        
+        <li>João Boer</li>
+
+        <li>Rijckard Rommel</li>
+
+      </ul>
+
       <hr>
       <p align="right">Última atualização&#58 02/02/2022</p>
 ---
