@@ -126,15 +126,7 @@ team:
           - url: https://github.com/JoaoVitorBoer
             icon: fab fa-github
           - url: https://www.linkedin.com/in/jo%C3%A3o-vitor-boer-abitante-837b19210/
-            icon: fab fa-linkedin-in
-      - name: "Leandra Torbes"
-        role: "<b>Ciência de Dados e IA</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/LeandraT.jpg
-        social:
-          - url: https://github.com/ltorbes
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/leandra-torbes-142472164/
-            icon: fab fa-linkedin-in    
+            icon: fab fa-linkedin-in  
       - name: "Lorenzo Oliveira"
         role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/LorenzoT.png
@@ -142,14 +134,6 @@ team:
           - url: https://github.com/LorenzoOliveira03
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/ 
-            icon: fab fa-linkedin-in
-      - name: "Lucas Ehara"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/LucasE2.png
-        social:
-          - url: https://github.com/LucasEhara
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/lucas-ehara-4b6b2b204/
             icon: fab fa-linkedin-in
       - name: "Luiz Buzzacaro"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
