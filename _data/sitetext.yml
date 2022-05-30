@@ -110,39 +110,7 @@ team:
           - url: https://github.com/EricoPanassol
             icon: fab fa-github
           - url: https://www.linkedin.com/in/érico-panassol-a98406221/
-            icon: fab fa-linkedin-in       
-      - name: "João Boer"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/JoaoB.jpg
-        social:
-          - url: https://github.com/JoaoVitorBoer
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/jo%C3%A3o-vitor-boer-abitante-837b19210/
-            icon: fab fa-linkedin-in  
-      - name: "Lorenzo Oliveira"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/LorenzoT.png
-        social:
-          - url: https://github.com/LorenzoOliveira03
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/ 
-            icon: fab fa-linkedin-in
-      - name: "Luiz Buzzacaro"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/LuizB.jpg
-        social:
-          - url: https://github.com/Buzzaz01
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/luiz-ribeiro-buzzacaro-582703143/
-            icon: fab fa-linkedin-in
-      - name: "Luiza Valentini"
-        role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/LuizaV.jpg
-        social:
-          - url: https://github.com/luizavalentini
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/luiza-valentini-143299aa
-            icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-in         
       - name: "Rafael Schaker"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/RafaelS.jpeg
@@ -159,9 +127,38 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
             icon: fab fa-linkedin-in
-      
-      
-            
+      - name: "Jair Machado"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Jair Machado.jpg
+        social:
+          - url: https://github.com/ChicoNK
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/jair-machado-991950238/
+            icon: fab fa-linkedin-in
+      - name: "Isadora Guerra"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Isadora Guerra.jpg
+        social:
+          - url: https://github.com/154guerra
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+            icon: fab fa-linkedin-in    
+      - name: "Carolina Panizzi"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Carol Panizzi.jpg
+        social:
+          - url: https://github.com/Carol127
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
+            icon: fab fa-linkedin-in   
+      - name: "Enzo Neves"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Enzo Neves.png
+        social:
+          - url: https://github.com/Enzo-Neves
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/enzo-krzmienszki-neves-a57702208/
+            icon: fab fa-linkedin-in      
 contact:
     title: "Fale Conosco"
     text: "Envie um email para petinf.pucrs@gmail.com"
