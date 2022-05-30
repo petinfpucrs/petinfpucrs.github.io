@@ -103,6 +103,12 @@ team:
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
     petianos:
+      - name: "Alexandre Cheinquer"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Alexandre Cheinquer.jpg
+        social:
+          - url: https://github.com/ACheinquer
+            icon: fab fa-github
       - name: "Érico Panassol"
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/EricoP.jpg
@@ -166,7 +172,13 @@ team:
           - url: https://github.com/Enzo-Neves
             icon: fab fa-github
           - url: https://www.linkedin.com/in/enzo-krzmienszki-neves-a57702208/
-            icon: fab fa-linkedin-in      
+            icon: fab fa-linkedin-in
+      - name: "Vitor Machado"
+        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        image: assets\img\team\Vitor Machado.png
+        social:
+          - url: https://github.com/Machxado
+            icon: fab fa-github         
 contact:
     title: "Fale Conosco"
     text: "Envie um email para petinf.pucrs@gmail.com"
