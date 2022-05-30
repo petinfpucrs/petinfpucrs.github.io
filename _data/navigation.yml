@@ -14,8 +14,8 @@ nav:
   - title: "Nossa equipe"
     section: team
 
-  - title: "Seleção"
-    url: /selecao
+  #- title: "Seleção"
+  #  url: /selecao
 
   - title: "Contato"
     section: contact
