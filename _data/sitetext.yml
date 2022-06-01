@@ -125,14 +125,14 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/ 
             icon: fab fa-linkedin-in      
-      - name: "Rafael Schaker"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/RafaelS.jpeg
-        social:
-          - url: https://github.com/Rafael-Schaker
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
-            icon: fab fa-linkedin-in
+#      - name: "Rafael Schaker"
+#        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
+#        image: assets/img/team/RafaelS.jpeg
+#        social:
+#          - url: https://github.com/Rafael-Schaker
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
+#            icon: fab fa-linkedin-in
       - name: "Rijckard Rommel"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
         image: assets/img/team/Riji.jpeg
