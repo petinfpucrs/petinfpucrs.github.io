@@ -133,14 +133,14 @@ team:
 #            icon: fab fa-github
 #          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
 #            icon: fab fa-linkedin-in
-      - name: "Rijckard Rommel"
-        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-        image: assets/img/team/Riji.jpeg
-        social:
-          - url: https://github.com/Rijckard1
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
-            icon: fab fa-linkedin-in
+#      - name: "Rijckard Rommel"
+#        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+#        image: assets/img/team/Riji.jpeg
+#        social:
+#          - url: https://github.com/Rijckard1
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
+#            icon: fab fa-linkedin-in
       - name: "Jair Machado"
         role: "<b>Rever</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Jair Machado.jpg
