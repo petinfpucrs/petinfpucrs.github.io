@@ -157,14 +157,14 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
             icon: fab fa-linkedin-in    
-      - name: "Carolina Panizzi"
-        role: "<b>Rever</b> <br> Ingresso: 03/2022"
-        image: assets\img\team\Carol Panizzi.jpg
-        social:
-          - url: https://github.com/Carol127
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
-            icon: fab fa-linkedin-in   
+#      - name: "Carolina Panizzi"
+#        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+#        image: assets\img\team\Carol Panizzi.jpg
+#        social:
+#          - url: https://github.com/Carol127
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
+#            icon: fab fa-linkedin-in   
       - name: "Enzo Neves"
         role: "<b>Rever</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Enzo Neves.png
