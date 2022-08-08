@@ -19,7 +19,7 @@ services:
         desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas, fique à vontade para falar conosco na seção de contato ao final da página!</p>
             
             <ul>
-                <li>Edital 2022/2 - Aberto (PRAZO PARA INSCRIÇÃO: 31/08/2022)</li>
+                <li>Edital 2022/2 - Aberto (PRAZO PARA INSCRIÇÃO: 31/08/2022 / <a href="https://docs.google.com/forms/d/16GvS6nk4MNr5217z_m1x7zowPh2JalYvRnWDoQ-khbI/edit#responses">Formulário</a>)</li>
 
             </ul>
        # buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
