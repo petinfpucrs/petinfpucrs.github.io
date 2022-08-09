@@ -139,7 +139,7 @@ team:
 #          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
 #            icon: fab fa-linkedin-in
       - name: "Jair Machado"
-        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Jair Machado.jpg
         social:
           - url: https://github.com/ChicoNK
@@ -147,7 +147,7 @@ team:
           - url: https://www.linkedin.com/in/jair-machado-991950238/
             icon: fab fa-linkedin-in
       - name: "Isadora Guerra"
-        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Isadora Guerra.jpg
         social:
           - url: https://github.com/154guerra
@@ -163,7 +163,7 @@ team:
 #          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
 #            icon: fab fa-linkedin-in   
       - name: "Enzo Neves"
-        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Enzo Neves.png
         social:
           - url: https://github.com/Enzo-Neves
