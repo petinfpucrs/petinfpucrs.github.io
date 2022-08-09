@@ -22,7 +22,7 @@ services:
                 <li><a href="/selecao">Edital 2022/2</a> - Aberto (PRAZO PARA INSCRIÇÃO: 31/08/2022)</li>
 
             </ul>
-       # buttonlink: "/selecao" # "#portfolio" # "#{section}" or "URL/page link" 
+       buttonlink: "/selecao"  "#portfolio"  "#{section}" or "https://docs.google.com/forms/d/16GvS6nk4MNr5217z_m1x7zowPh2JalYvRnWDoQ-khbI/viewform?edit_requested=true#responses" 
         icon: fas fa-users
     #button: Acesse Nosso Blog!
     #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
