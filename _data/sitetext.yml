@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
     petianos:
       - name: "Alexandre Cheinquer"
-        role: "<b>Rever</b> <br> Ingresso: 03/2022"
+        role: "<b>Ciência de Dados e Inteligência Artificial</b> <br> Ingresso: 03/2022"
         image: assets\img\team\Alexandre Cheinquer.jpg
         social:
           - url: https://github.com/ACheinquer
