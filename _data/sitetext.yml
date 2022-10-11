@@ -102,14 +102,14 @@ team:
         social:
           - url: https://github.com/ACheinquer
             icon: fab fa-github
-      - name: "Érico Panassol"
-        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/EricoP.jpg
-        social:
-          - url: https://github.com/EricoPanassol
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
-            icon: fab fa-linkedin-in   
+#      - name: "Érico Panassol"
+#        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
+#        image: assets/img/team/EricoP.jpg
+#        social:
+#          - url: https://github.com/EricoPanassol
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
+#            icon: fab fa-linkedin-in   
       - name: "Lorenzo Oliveira"
         role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
         image: assets/img/team/LorenzoT.png
