@@ -1,155 +1,177 @@
 header:
-    title: Escola Politécnica - PUCRS
-    text: PET Informática 
-    #button: Projetos
-    #buttonlink: "#portfolio" # "#{section}" or "URL/page link" 
+  title: Escola Politécnica - PUCRS
+  text: PET Informática - Dev Site
+  #button: Projetos
+  #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
-    title: "PET-Informática"
-    text: 
-    section: services
-    list:
-      - title: "O Programa"
-        desc: <p align="justify">Organizado pelo MEC, o PET - Programa de Educação Tutorial - reúne bolsistas que contam com a tutoria de docentes. O objetivo é uma formação completa durante a graduação, através da realização de projetos que funcionam segundo os princípios de ensino, pesquisa e extensão. <a href="http://portal.mec.gov.br/component/tags/tag/32496" target="_blank"><b>Clique aqui</b></a> para saber mais!</p>
-        icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
-      - title: "Nossa História"
-        desc: <p align="justify">O PET-Inf foi criado na PUCRS em novembro de 1991, tendo como primeiro tutor o professor Álvaro Guarda. O grupo reúne alunos da graduação de vários cursos da área de tecnologia da universidade, desenvolvendo atividades com prioridade à diversidade de conhecimentos que vão além do currículo formal. <a href="http://www.pucrs.br/politecnica/amplie-sua-formacao/programa-de-educacao-tutorial" target="_blank"><b>Saiba mais!</b></a></p>
-        icon: fas fa-university      
-      - title: "Faça Parte do Grupo!"
-        desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas. Fique à vontade para falar conosco na seção de contato ao final da página!<br><br><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/selecao" target="_blank">Edital 2022/2 <br> PRAZO PARA INSCRIÇÃO 12/09/2022</a></p>
-        # buttonlink: "/selecao" # "#{section}" or "URL/page link"
-        # buttonlink: "/selecao"  "#portfolio"  "#{section}" or "https://docs.google.com/forms/d/16GvS6nk4MNr5217z_m1x7zowPh2JalYvRnWDoQ-khbI/viewform?edit_requested=true#responses" 
-        icon: fas fa-users
-    #button: Acesse Nosso Blog!
-    #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
-  
-
+  title: "PET-Informática"
+  text:
+  section: services
+  list:
+    - title: "O Programa"
+      desc: <p align="justify">Organizado pelo MEC, o PET - Programa de Educação Tutorial - reúne bolsistas que contam com a tutoria de docentes. O objetivo é uma formação completa durante a graduação, através da realização de projetos que funcionam segundo os princípios de ensino, pesquisa e extensão. <a href="http://portal.mec.gov.br/component/tags/tag/32496" target="_blank"><b>Clique aqui</b></a> para saber mais!</p>
+      icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
+    - title: "Nossa História"
+      desc: <p align="justify">O PET-Inf foi criado na PUCRS em novembro de 1991, tendo como primeiro tutor o professor Álvaro Guarda. O grupo reúne alunos da graduação de vários cursos da área de tecnologia da universidade, desenvolvendo atividades com prioridade à diversidade de conhecimentos que vão além do currículo formal. <a href="http://www.pucrs.br/politecnica/amplie-sua-formacao/programa-de-educacao-tutorial" target="_blank"><b>Saiba mais!</b></a></p>
+      icon: fas fa-university
+    - title: "Faça Parte do Grupo!"
+      desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas. Fique à vontade para falar conosco na seção de contato ao final da página!<br><br><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/selecao" target="_blank">Edital 2022/2 <br> PRAZO PARA INSCRIÇÃO 12/09/2022</a></p>
+      # buttonlink: "/selecao" # "#{section}" or "URL/page link"
+      # buttonlink: "/selecao"  "#portfolio"  "#{section}" or "https://docs.google.com/forms/d/16GvS6nk4MNr5217z_m1x7zowPh2JalYvRnWDoQ-khbI/viewform?edit_requested=true#responses"
+      icon: fas fa-users
+  #button: Acesse Nosso Blog!
+  #buttonlink: "https://petinfpucrs.github.io/blog" # "#{section}" or "URL/page link"
 
 talks:
-    title: "PET-Talks"
-    text: "Ciclo de Palestras do PET-Informática"
-    section: talks
-
-
+  title: "PET-Talks"
+  text: "Ciclo de Palestras do PET-Informática"
+  section: talks
 
 portfolio:
-    title: "Projetos"
-    text: "Veja os trabalhos em desenvolvimento!"
-    section: portfolio
-
-
+  title: "Projetos"
+  text: "Veja os trabalhos em desenvolvimento!"
+  section: portfolio
 
 clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title:
-      - title: "PUCRS"
-        url: http://www.pucrs.br/
-        logo: assets/img/clients/logo-PUCRS.png
-      - title: "PET-MEC"
-        url: http://portal.mec.gov.br/component/tags/tag/32496
-        logo: assets/img/clients/logo-Mec-.png
-    
+  section: clients
+  max-height: 100px
+  horizontal-scrolling: "" #"yes/no"
+  list:
+    - title:
+    - title: "PUCRS"
+      url: http://www.pucrs.br/
+      logo: assets/img/clients/logo-PUCRS.png
+    - title: "PET-MEC"
+      url: http://portal.mec.gov.br/component/tags/tag/32496
+      logo: assets/img/clients/logo-Mec-.png
+
 timeline:
-    title: "História" 
-    #text: "Projetos já realizados!"
-    section: timeline
-    events:
-      - title: "Criação do PET-Informática"
-        year: "Novembro 1991"
-        desc: "O PET-Inf foi criado na PUCRS ao final de 1991, tendo como primeiro tutor o professor Álvaro Guarda."
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "Tutores do PET-Inf"
-        year: "1991 - 2020"
-        desc: "<ul>
-                <li>Prof. Dr. Álvaro Guarda: 1991-1993</li>
-                <li>Prof. Dr. Afonso Orth: 1993-1996</li>
-                <li>Prof. Dr. Celso Maciel: 1996-2000 | 2010-2011</li>
-                <li>Prof. Dr. Fabiano Hessel: 2001-2002</li>
-                <li>Prof. Dr. Luís Lamb: 2002</li>
-                <li>Prof. Dr. Lúcia Giraffa: 2002-2005</li>
-                <li>Prof. Dr. Alfio Martini: 2005-2010 | 2018</li>
-                <li>Prof. Dr. Rafael Garibotti: 2019</li>
-                <li>Prof. Dr. Tiago Ferreto: 2011-2017 | 2020-Atual</li>
-            <ul/> "
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-    end: "Faça parte <br> da nossa <br> história!"
-    
+  title: "História"
+  #text: "Projetos já realizados!"
+  section: timeline
+  events:
+    - title: "Criação do PET-Informática"
+      year: "Novembro 1991"
+      desc: "O PET-Inf foi criado na PUCRS ao final de 1991, tendo como primeiro tutor o professor Álvaro Guarda."
+      image: assets/img/timeline/1.jpg
+      alt:
+      align: left
+    - title: "Tutores do PET-Inf"
+      year: "1991 - 2020"
+      desc: "<ul>
+        <li>Prof. Dr. Álvaro Guarda: 1991-1993</li>
+        <li>Prof. Dr. Afonso Orth: 1993-1996</li>
+        <li>Prof. Dr. Celso Maciel: 1996-2000 | 2010-2011</li>
+        <li>Prof. Dr. Fabiano Hessel: 2001-2002</li>
+        <li>Prof. Dr. Luís Lamb: 2002</li>
+        <li>Prof. Dr. Lúcia Giraffa: 2002-2005</li>
+        <li>Prof. Dr. Alfio Martini: 2005-2010 | 2018</li>
+        <li>Prof. Dr. Rafael Garibotti: 2019</li>
+        <li>Prof. Dr. Tiago Ferreto: 2011-2017 | 2020-Atual</li>
+        <ul/> "
+      image: assets/img/timeline/2.jpg
+      alt:
+      align: right
+  end: "Faça parte <br> da nossa <br> história!"
+
 team:
-    title: "Nossa Equipe"
-    #text: "Lorem ipsum dolor sit amet consectetur."
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    tutor:
-      - name: "Prof. Dr. Tiago Ferreto"
-        role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
-        image: assets/img/team/TiagoF.png
-        social:
-          - url: https://github.com/tiagoferreto
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/tiagoferreto/
-            icon: fab fa-linkedin-in
-    petianos:
-      - name: "Alexandre Cheinquer"
-        role: "<b>Ciência de Dados e Inteligência Artificial</b> <br> Ingresso: 03/2022"
-        image: assets\img\team\Alexandre Cheinquer.jpg
-        social:
-          - url: https://github.com/ACheinquer
-            icon: fab fa-github
-#      - name: "Érico Panassol"
-#        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
-#        image: assets/img/team/EricoP.jpg
-#        social:
-#          - url: https://github.com/EricoPanassol
-#            icon: fab fa-github
-#          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
-#            icon: fab fa-linkedin-in   
-      - name: "Lorenzo Oliveira"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
-        image: assets/img/team/LorenzoT.png
-        social:
-          - url: https://github.com/LorenzoOliveira03
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/ 
-            icon: fab fa-linkedin-in      
-#      - name: "Rafael Schaker"
-#        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
-#        image: assets/img/team/RafaelS.jpeg
-#        social:
-#          - url: https://github.com/Rafael-Schaker
-#            icon: fab fa-github
-#          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
-#            icon: fab fa-linkedin-in
-#      - name: "Rijckard Rommel"
-#        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-#        image: assets/img/team/Riji.jpeg
-#        social:
-#          - url: https://github.com/Rijckard1
-#            icon: fab fa-github
-#          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
-#            icon: fab fa-linkedin-in
-      - name: "Jair Machado"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-        image: assets\img\team\Jair Machado.jpg
-        social:
-          - url: https://github.com/ChicoNK
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/jair-machado-991950238/
-            icon: fab fa-linkedin-in
-      - name: "Isadora Guerra"
-        role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-        image: assets\img\team\Isadora Guerra.jpg
-        social:
-          - url: https://github.com/154guerra
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
-            icon: fab fa-linkedin-in    
+  title: "Nossa Equipe"
+  #text: "Lorem ipsum dolor sit amet consectetur."
+  #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  section: team
+  tutor:
+    - name: "Prof. Dr. Tiago Ferreto"
+      role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
+      image: assets/img/team/TiagoF.png
+      social:
+        - url: https://github.com/tiagoferreto
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/tiagoferreto/
+          icon: fab fa-linkedin-in
+  petianos:
+    - name: "Alexandre Cheinquer"
+      role: "<b>Ciência de Dados e Inteligência Artificial</b> <br> Ingresso: 03/2022"
+      image: assets\img\team\Alexandre Cheinquer.jpg
+      social:
+        - url: https://github.com/ACheinquer
+          icon: fab fa-github
+    #      - name: "Érico Panassol"
+    #        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
+    #        image: assets/img/team/EricoP.jpg
+    #        social:
+    #          - url: https://github.com/EricoPanassol
+    #            icon: fab fa-github
+    #          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
+    #            icon: fab fa-linkedin-in
+    - name: "Lorenzo Oliveira"
+      role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
+      image: assets/img/team/LorenzoT.png
+      social:
+        - url: https://github.com/LorenzoOliveira03
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/
+          icon: fab fa-linkedin-in
+    #      - name: "Rafael Schaker"
+    #        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
+    #        image: assets/img/team/RafaelS.jpeg
+    #        social:
+    #          - url: https://github.com/Rafael-Schaker
+    #            icon: fab fa-github
+    #          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
+    #            icon: fab fa-linkedin-in
+    #      - name: "Rijckard Rommel"
+    #        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
+    #        image: assets/img/team/Riji.jpeg
+    #        social:
+    #          - url: https://github.com/Rijckard1
+    #            icon: fab fa-github
+    #          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
+    #            icon: fab fa-linkedin-in
+    - name: "Jair Machado"
+      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
+      image: assets\img\team\Jair Machado.jpg
+      social:
+        - url: https://github.com/ChicoNK
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/jair-machado-991950238/
+          icon: fab fa-linkedin-in
+    - name: "Isadora Guerra"
+      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
+      image: assets\img\team\Isadora Guerra.jpg
+      social:
+        - url: https://github.com/154guerra
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+          icon: fab fa-linkedin-in
+    - name: "Gustavo Burchardt"
+      role: "<b>Engenharia de Software
+</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\gustavo.png
+      social:
+        - url: https://github.com/guburchardt
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/gustavo-fernando-burchardt-833929124/
+          icon: fab fa-linkedin-in
+
+    - name: "Marcelo Martins"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\MarceloAugusto.png
+      social:
+        - url: https://github.com/MFelisberto
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/
+          icon: fab fa-linkedin-in
+
+    - name: "Andriele Lange"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\andriele.png
+      social:
+        - url: https://github.com/AndrieleLange
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
+          icon: fab fa-linkedin-in
+
 #      - name: "Carolina Panizzi"
 #        role: "<b>Rever</b> <br> Ingresso: 03/2022"
 #        image: assets\img\team\Carol Panizzi.jpg
@@ -157,7 +179,7 @@ team:
 #          - url: https://github.com/Carol127
 #            icon: fab fa-github
 #          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
-#            icon: fab fa-linkedin-in   
+#            icon: fab fa-linkedin-in
 #      - name: "Enzo Neves"
 #        role: "<b>Ciência da Computação</b> <br> Ingresso: 03/2022"
 #        image: assets\img\team\Enzo Neves.png
@@ -171,21 +193,21 @@ team:
 #        image: assets\img\team\Vitor Machado.png
 #        social:
 #          - url: https://github.com/Machxado
-#            icon: fab fa-github         
+#            icon: fab fa-github
 contact:
-    title: "Fale Conosco"
-    text: "Envie um email para petinf.pucrs@gmail.com"
-    section: contact
-    
+  title: "Fale Conosco"
+  text: "Envie um email para petinf.pucrs@gmail.com"
+  section: contact
+
 footer:
-    legal: "Política de Privacidade"
-    social:  
-      - url: https://www.facebook.com/petinf.pucrs/
-        icon: "fab fa-facebook-f"
-      - url: https://github.com/petinfpucrs
-        icon: "fab fa-github"
-      - url: https://www.instagram.com/petinfpucrs/
-        icon: "fab fa-instagram"
-      - url: https://www.youtube.com/channel/UCXV9sR-jPpBUiCKUX3rJG6A
-        icon: "fab fa-youtube"
+  legal: "Política de Privacidade"
+  social:
+    - url: https://www.facebook.com/petinf.pucrs/
+      icon: "fab fa-facebook-f"
+    - url: https://github.com/petinfpucrs
+      icon: "fab fa-github"
+    - url: https://www.instagram.com/petinfpucrs/
+      icon: "fab fa-instagram"
+    - url: https://www.youtube.com/channel/UCXV9sR-jPpBUiCKUX3rJG6A
+      icon: "fab fa-youtube"
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

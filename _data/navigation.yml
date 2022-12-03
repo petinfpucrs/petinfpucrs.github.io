@@ -1,13 +1,13 @@
 nav:
   - title: "Sobre"
-    section: services  
+    section: services
 
   - title: "Talks"
     section: talks
 
   - title: "Projetos"
     section: portfolio
-    
+
   - title: "História"
     section: timeline
 
@@ -16,9 +16,11 @@ nav:
 
   #- title: "Seleção"
   #  url: /selecao
+  - title: "Galeria"
+    section: gallery
 
   - title: "Contato"
     section: contact
-    
+
   #- title: "Blog"
   #  url: https://petinfpucrs.github.io/blog
