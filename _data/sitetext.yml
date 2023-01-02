@@ -128,14 +128,14 @@ team:
     #            icon: fab fa-github
     #          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
     #            icon: fab fa-linkedin-in
-    - name: "Jair Machado"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-      image: assets\img\team\Jair Machado.jpg
-      social:
-        - url: https://github.com/ChicoNK
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/jair-machado-991950238/
-          icon: fab fa-linkedin-in
+    #- name: "Jair Machado"
+    #  role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
+    #  image: assets\img\team\Jair Machado.jpg
+    #  social:
+    #    - url: https://github.com/ChicoNK
+    #      icon: fab fa-github
+    #    - url: https://www.linkedin.com/in/jair-machado-991950238/
+    #      icon: fab fa-linkedin-in
     - name: "Isadora Guerra"
       role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
       image: assets\img\team\Isadora Guerra.jpg
