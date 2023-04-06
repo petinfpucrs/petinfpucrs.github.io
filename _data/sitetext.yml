@@ -16,7 +16,7 @@ services:
       desc: <p align="justify">O PET-Inf foi criado na PUCRS em novembro de 1991, tendo como primeiro tutor o professor Álvaro Guarda. O grupo reúne alunos da graduação de vários cursos da área de tecnologia da universidade, desenvolvendo atividades com prioridade à diversidade de conhecimentos que vão além do currículo formal. <a href="http://www.pucrs.br/politecnica/amplie-sua-formacao/programa-de-educacao-tutorial" target="_blank"><b>Saiba mais!</b></a></p>
       icon: fas fa-university
     - title: "Faça Parte do Grupo!"
-      desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas. Fique à vontade para falar conosco na seção de contato ao final da página!<br><br><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/selecao" target="_blank">Edital 2022/2 <br> PRAZO PARA INSCRIÇÃO 12/09/2022</a></p>
+      desc: <p align="justify">Os editais são abertos no início do semestre ou quando há vagas. Fique à vontade para falar conosco na seção de contato ao final da página!<br><br><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/selecao" target="_blank">Edital 2023/1 <br> PRAZO PARA INSCRIÇÃO 14/04/2023</a></p>
       # buttonlink: "/selecao" # "#{section}" or "URL/page link"
       # buttonlink: "/selecao"  "#portfolio"  "#{section}" or "https://docs.google.com/forms/d/16GvS6nk4MNr5217z_m1x7zowPh2JalYvRnWDoQ-khbI/viewform?edit_requested=true#responses"
       icon: fas fa-users
@@ -171,7 +171,25 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
           icon: fab fa-linkedin-in
-
+    
+    - name: "Ianes Filho"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\IanesFilho.png
+      social:
+        - url: https://github.com/ianesfilho
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/ianes-alencastro-e-silva-filho-21561821a/?original_referer=
+          icon: fab fa-linkedin-in
+    
+    - name: "Mateus Charloto"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\Mateus.png
+      social:
+        - url: https://github.com/mateusfch
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
+          icon: fab fa-linkedin-in
+      
 #      - name: "Carolina Panizzi"
 #        role: "<b>Rever</b> <br> Ingresso: 03/2022"
 #        image: assets\img\team\Carol Panizzi.jpg
