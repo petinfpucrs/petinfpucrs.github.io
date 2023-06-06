@@ -223,7 +223,7 @@ team:
       image: assets\img\team\semfoto.jpg
 
     - name: "Bernardo Müller"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\semfoto.jpg
 
     - name: "Rafael Mayer"
