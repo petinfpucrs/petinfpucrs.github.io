@@ -65,10 +65,12 @@ timeline:
         <li>Prof. Dr. Celso Maciel: 1996-2000 | 2010-2011</li>
         <li>Prof. Dr. Fabiano Hessel: 2001-2002</li>
         <li>Prof. Dr. Luís Lamb: 2002</li>
-        <li>Prof. Dr. Lúcia Giraffa: 2002-2005</li>
+        <li>Profa. Dra. Lúcia Giraffa: 2002-2005</li>
         <li>Prof. Dr. Alfio Martini: 2005-2010 | 2018</li>
         <li>Prof. Dr. Rafael Garibotti: 2019</li>
-        <li>Prof. Dr. Tiago Ferreto: 2011-2017 | 2020-Atual</li>
+        <li>Prof. Dr. Tiago Ferreto: 2011-2017 | 2020-2023</li>
+        <li>Profa. Dra. Milene Silveira: 2023-Atual</li>
+
         <ul/> "
       image: assets/img/timeline/2.jpg
       alt:
@@ -81,13 +83,13 @@ team:
   #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
   section: team
   tutor:
-    - name: "Prof. Dr. Tiago Ferreto"
-      role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
-      image: assets/img/team/TiagoF.png
+    - name: "Profa. Dra. Milene Silveira"
+      role: "Doutora em Informática <br> <b>Tutora</b>"
+      image: assets/img/team/milene.png
       social:
-        - url: https://github.com/tiagoferreto
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/tiagoferreto/
+        - url: http://lattes.cnpq.br/0483707899231728
+          icon: fa fa-graduation-cap
+        - url: https://www.linkedin.com/in/milene-silveira-50a914a8/
           icon: fab fa-linkedin-in
   petianos:
     # - name: "Alexandre Cheinquer"
@@ -144,15 +146,15 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
           icon: fab fa-linkedin-in
-    - name: "Gustavo Burchardt"
-      role: "<b>Engenharia de Software
-</b> <br> Ingresso: 09/2022"
-      image: assets\img\team\gustavo.png
-      social:
-        - url: https://github.com/guburchardt
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/gustavo-fernando-burchardt-833929124/
-          icon: fab fa-linkedin-in
+    #     - name: "Gustavo Burchardt"
+    #       role: "<b>Engenharia de Software
+    # </b> <br> Ingresso: 09/2022"
+    #       image: assets\img\team\gustavo.png
+    #       social:
+    #         - url: https://github.com/guburchardt
+    #           icon: fab fa-github
+    #         - url: https://www.linkedin.com/in/gustavo-fernando-burchardt-833929124/
+    #           icon: fab fa-linkedin-in
 
     - name: "Marcelo Martins"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
@@ -171,7 +173,7 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
           icon: fab fa-linkedin-in
-    
+
     - name: "Ianes Filho"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\IanesFilho.png
@@ -180,7 +182,7 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/ianes-alencastro-e-silva-filho-21561821a/?original_referer=
           icon: fab fa-linkedin-in
-    
+
     - name: "Mateus Charloto"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\Mateus.png
@@ -189,7 +191,57 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
           icon: fab fa-linkedin-in
-      
+
+      # - name: "Ana Schmitt"
+      # role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+      # image: assets\img\team\ana.png
+      # social:
+      #   - url: https://www.linkedin.com/in/ana-schmitt
+      #     icon: fab fa-linkedin-in
+    - name: "Bruno Neves"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\brunoneves.png
+      social:
+        - url: https://github.com/NevesRS
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/bruno-beal-neves-740a64234?original_referer=
+          icon: fab fa-linkedin-in
+
+    - name: "Ana Schmitt"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\ana.png
+      social:
+        - url: https://www.linkedin.com/in/ana-schmitt
+          icon: fab fa-linkedin-in
+
+    - name: "Juliana Fernandes"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\semfoto.jpg
+
+    - name: "Renata Hess"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\semfoto.jpg
+
+    - name: "Bernardo Müller"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\semfoto.jpg
+
+    - name: "Rafael Mayer"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\rafaelmayer.png
+      social:
+        - url: https://br.linkedin.com/in/rafael-mayer-0117b4260?original_referer=
+          icon: fab fa-linkedin-in
+
+    - name: "João Meier"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\joaomiguel.png
+      social:
+
+    - name: "Eduardo Tavares"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\eduardo.png
+
 #      - name: "Carolina Panizzi"
 #        role: "<b>Rever</b> <br> Ingresso: 03/2022"
 #        image: assets\img\team\Carol Panizzi.jpg
