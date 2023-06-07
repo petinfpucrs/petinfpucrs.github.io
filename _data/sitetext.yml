@@ -216,15 +216,21 @@ team:
 
     - name: "Juliana Fernandes"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\semfoto.jpg
+      image: assets\img\team\juliana.png
+      social:
+        - url: https://www.linkedin.com/in/julianaa-f/
+          icon: fab fa-linkedin-in
 
     - name: "Renata Hess"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\semfoto.jpg
+      image: assets\img\team\renata.png
 
     - name: "Bernardo Müller"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\semfoto.jpg
+      image: assets\img\team\bernardo.png
+      social:
+        - url: https://www.linkedin.com/in/bernardomuller
+          icon: fab fa-linkedin-in
 
     - name: "Rafael Mayer"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
@@ -237,6 +243,10 @@ team:
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\joaomiguel.png
       social:
+        - url: https://github.com/joaombonaldo
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/joaombonaldo/
+          icon: fab fa-linkedin-in
 
     - name: "Eduardo Tavares"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
