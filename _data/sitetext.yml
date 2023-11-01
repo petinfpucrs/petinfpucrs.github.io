@@ -138,14 +138,15 @@ team:
     #      icon: fab fa-github
     #    - url: https://www.linkedin.com/in/jair-machado-991950238/
     #      icon: fab fa-linkedin-in
-    - name: "Isadora Guerra"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-      image: assets\img\team\Isadora Guerra.jpg
-      social:
-        - url: https://github.com/154guerra
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
-          icon: fab fa-linkedin-in
+    #
+   #- name: "Isadora Guerra"
+    #  role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
+    #  image: assets\img\team\Isadora Guerra.jpg
+     # social:
+     #   - url: https://github.com/154guerra
+     #     icon: fab fa-github
+     #   - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+     #     icon: fab fa-linkedin-in
     #     - name: "Gustavo Burchardt"
     #       role: "<b>Engenharia de Software
     # </b> <br> Ingresso: 09/2022"
@@ -183,14 +184,14 @@ team:
         - url: https://www.linkedin.com/in/ianes-alencastro-e-silva-filho-21561821a/?original_referer=
           icon: fab fa-linkedin-in
 
-    - name: "Mateus Charloto"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
-      image: assets\img\team\Mateus.png
-      social:
-        - url: https://github.com/mateusfch
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
-          icon: fab fa-linkedin-in
+      # - name: "Mateus Charloto"
+      #  role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      #  image: assets\img\team\Mateus.png
+      # social:
+      #  - url: https://github.com/mateusfch
+      #   icon: fab fa-github
+      #- url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
+      #   icon: fab fa-linkedin-in
 
       # - name: "Ana Schmitt"
       # role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
