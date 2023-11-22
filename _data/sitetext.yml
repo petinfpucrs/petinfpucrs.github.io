@@ -273,7 +273,7 @@ team:
           icon: fab fa-github
       #- url: https://www.linkedin.com/in/eduardo-tavares-53038b27a/
       #  icon: fab fa-linkedin-in
-    - name: "Eduarda dos Santos Patricio"
+    #- name: "Eduarda dos Santos Patricio"
         role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
         image: assets\img\team\Eduarda.jpg
         social:
