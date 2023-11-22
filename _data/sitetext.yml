@@ -233,26 +233,29 @@ team:
         - url: https://www.linkedin.com/in/bernardomuller
           icon: fab fa-linkedin-in
 
-    - name: "Rafael Mayer"
-      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\rafaelmayer.png
-      social:
-        - url: https://br.linkedin.com/in/rafael-mayer-0117b4260?original_referer=
-          icon: fab fa-linkedin-in
+    #- name: "Rafael Mayer"
+     # role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+     # image: assets\img\team\rafaelmayer.png
+     # social:
+      #  - url: https://br.linkedin.com/in/rafael-mayer-0117b4260?original_referer=
+       #   icon: fab fa-linkedin-in
 
-    - name: "João Meier"
-      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\joaomiguel.png
-      social:
-        - url: https://github.com/joaombonaldo
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/joaombonaldo/
-          icon: fab fa-linkedin-in
+   # - name: "João Meier"
+    #  role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+     # image: assets\img\team\joaomiguel.png
+      #social:
+       # - url: https://github.com/joaombonaldo
+        #  icon: fab fa-github
+        #- url: https://www.linkedin.com/in/joaombonaldo/
+          #icon: fab fa-linkedin-in
 
     - name: "Eduardo Tavares"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\eduardo.png
-
+      image: assets\img\team\EduardoTavares.jpg
+    - url: https://github.com/Doardot
+      icon: fab fa-github
+      - url: https://www.linkedin.com/in/eduardo-tavares-53038b27a/
+        icon: fab fa-linkedin-in
 #      - name: "Carolina Panizzi"
 #        role: "<b>Rever</b> <br> Ingresso: 03/2022"
 #        image: assets\img\team\Carol Panizzi.jpg
