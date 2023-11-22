@@ -240,7 +240,7 @@ team:
       social:
         - url: https://github.com/Doardot
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/eduardo-tavares-53038b27a/
+        - url: https://www.linkedin.com/in/eduardo-tavares/
           icon: fab fa-linkedin-in
 
 #      - name: "Carolina Panizzi"
@@ -289,7 +289,7 @@ team:
       social:
         - url: https://github.com/sillysecret
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/joão-pedro-kriger-447435240/
+        - url: https://www.linkedin.com/in/joão-pedro-kriger/
           icon: fab fa-linkedin-in
 
       - name: "Gustavo Willian Martins da Silva"
@@ -298,7 +298,7 @@ team:
       social:
         - url: https://github.com/GustavoWMSilva
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva-43b643232
+        - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva/
           icon: fab fa-linkedin-in
 contact:
   title: "Fale Conosco"
