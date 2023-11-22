@@ -267,7 +267,7 @@ team:
 #            icon: fab fa-github
     - name: "Stéfano Carraro"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 11/2023"
-      #image: assets\img\team\stefano.jpg
+      image: assets\img\team\stefano.jpg
       social:
         - url: https://github.com/StefanoDPCarraro
           icon: fab fa-github
@@ -275,7 +275,7 @@ team:
       #  icon: fab fa-linkedin-in
     - name: "Eduarda dos Santos Patricio"
         role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-        #image: assets\img\team\Eduarda.jpg
+        image: assets\img\team\Eduarda.jpg
         social:
           - url: https://github.com/e-patricio
             icon: fab fa-github
@@ -283,7 +283,7 @@ team:
             icon: fab fa-linkedin-in
     - name: "João Pedro Kriger"
       role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
-      #image: assets\img\team\joaopedro.jpg
+      image: assets\img\team\joaopedro.jpg
       social:
         - url: https://github.com/sillysecret
           icon: fab fa-github
@@ -291,7 +291,7 @@ team:
           icon: fab fa-linkedin-in
     - name: "Gustavo Willian Martins da Silva"
       role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-      #image: assets\img\team\gustavoMartins.jpg
+      image: assets\img\team\gustavoMartins.jpg
       social:
         - url: https://github.com/GustavoWMSilva
           icon: fab fa-github
