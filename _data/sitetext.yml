@@ -92,20 +92,6 @@ team:
         - url: https://www.linkedin.com/in/milene-silveira-50a914a8/
           icon: fab fa-linkedin-in
   petianos:
-    # - name: "Alexandre Cheinquer"
-    #  role: "<b>Ciência de Dados e Inteligência Artificial</b> <br> Ingresso: 03/2022"
-    #  image: assets\img\team\Alexandre Cheinquer.jpg
-    #  social:
-    #    - url: https://github.com/ACheinquer
-    #      icon: fab fa-github
-    #      - name: "Érico Panassol"
-    #        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2021"
-    #        image: assets/img/team/EricoP.jpg
-    #        social:
-    #          - url: https://github.com/EricoPanassol
-    #            icon: fab fa-github
-    #          - url: https://www.linkedin.com/in/érico-panassol-a98406221/
-    #            icon: fab fa-linkedin-in
     - name: "Lorenzo Oliveira"
       role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
       image: assets/img/team/LorenzoT.png
@@ -114,48 +100,6 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/
           icon: fab fa-linkedin-in
-    #      - name: "Rafael Schaker"
-    #        role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
-    #        image: assets/img/team/RafaelS.jpeg
-    #        social:
-    #          - url: https://github.com/Rafael-Schaker
-    #            icon: fab fa-github
-    #          - url: https://www.linkedin.com/in/rafael-schaker-7b63821b6/
-    #            icon: fab fa-linkedin-in
-    #      - name: "Rijckard Rommel"
-    #        role: "<b>Engenharia de Computação</b> <br> Ingresso: 05/2021"
-    #        image: assets/img/team/Riji.jpeg
-    #        social:
-    #          - url: https://github.com/Rijckard1
-    #            icon: fab fa-github
-    #          - url: https://www.linkedin.com/in/rijckard-vizzenzo-rommel-528b73210/
-    #            icon: fab fa-linkedin-in
-    #- name: "Jair Machado"
-    #  role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-    #  image: assets\img\team\Jair Machado.jpg
-    #  social:
-    #    - url: https://github.com/ChicoNK
-    #      icon: fab fa-github
-    #    - url: https://www.linkedin.com/in/jair-machado-991950238/
-    #      icon: fab fa-linkedin-in
-    #
-   #- name: "Isadora Guerra"
-    #  role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-    #  image: assets\img\team\Isadora Guerra.jpg
-     # social:
-     #   - url: https://github.com/154guerra
-     #     icon: fab fa-github
-     #   - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
-     #     icon: fab fa-linkedin-in
-    #     - name: "Gustavo Burchardt"
-    #       role: "<b>Engenharia de Software
-    # </b> <br> Ingresso: 09/2022"
-    #       image: assets\img\team\gustavo.png
-    #       social:
-    #         - url: https://github.com/guburchardt
-    #           icon: fab fa-github
-    #         - url: https://www.linkedin.com/in/gustavo-fernando-burchardt-833929124/
-    #           icon: fab fa-linkedin-in
 
     - name: "Marcelo Martins"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
@@ -183,15 +127,6 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/ianes-alencastro-e-silva-filho-21561821a/?original_referer=
           icon: fab fa-linkedin-in
-
-      # - name: "Mateus Charloto"
-      #  role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
-      #  image: assets\img\team\Mateus.png
-      # social:
-      #  - url: https://github.com/mateusfch
-      #   icon: fab fa-github
-      #- url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
-      #   icon: fab fa-linkedin-in
 
     - name: "Bruno Neves"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
@@ -227,13 +162,6 @@ team:
         - url: https://www.linkedin.com/in/bernardomuller
           icon: fab fa-linkedin-in
 
-    #- name: "Rafael Mayer"
-     # role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-     # image: assets\img\team\rafaelmayer.png
-     # social:
-      #  - url: https://br.linkedin.com/in/rafael-mayer-0117b4260?original_referer=
-       #   icon: fab fa-linkedin-in
-
     - name: "Eduardo Tavares"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\EduardoTavares.jpg
@@ -243,28 +171,6 @@ team:
         - url: https://www.linkedin.com/in/eduardo-tavares/
           icon: fab fa-linkedin-in
 
-#      - name: "Carolina Panizzi"
-#        role: "<b>Rever</b> <br> Ingresso: 03/2022"
-#        image: assets\img\team\Carol Panizzi.jpg
-#        social:
-#          - url: https://github.com/Carol127
-#            icon: fab fa-github
-#          - url: https://www.linkedin.com/in/carolina-panizzi-49516522b/
-#            icon: fab fa-linkedin-in
-#      - name: "Enzo Neves"
-#        role: "<b>Ciência da Computação</b> <br> Ingresso: 03/2022"
-#        image: assets\img\team\Enzo Neves.png
-#        social:
-#          - url: https://github.com/Enzo-Neves
-#            icon: fab fa-github
-#          - url: https://www.linkedin.com/in/enzo-krzmienszki-neves-a57702208/
-#            icon: fab fa-linkedin-in
-#      - name: "Vitor Machado"
-#        role: "<b>Rever</b> <br> Ingresso: 03/2022"
-#        image: assets\img\team\Vitor Machado.png
-#        social:
-#          - url: https://github.com/Machxado
-#            icon: fab fa-github
     - name: "Stéfano Carraro"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 11/2023"
       image: assets\img\team\stefano.jpg
@@ -273,7 +179,8 @@ team:
           icon: fab fa-github
       #- url: https://www.linkedin.com/in/eduardo-tavares-53038b27a/
       #  icon: fab fa-linkedin-in
-    #- name: "Eduarda dos Santos Patricio"
+
+    - name: "Eduarda dos Santos Patricio"
         role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
         image: assets\img\team\Eduarda.jpg
         social:
@@ -281,6 +188,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
             icon: fab fa-linkedin-in
+
     - name: "João Pedro Kriger"
       role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
       image: assets\img\team\joaopedro.jpg
@@ -289,6 +197,7 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/joão-pedro-kriger/
           icon: fab fa-linkedin-in
+
     - name: "Gustavo Willian Martins da Silva"
       role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
       image: assets\img\team\gustavoMartins.jpg
@@ -297,6 +206,7 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva/
           icon: fab fa-linkedin-in
+          
 contact:
   title: "Fale Conosco"
   text: "Envie um email para petinf.pucrs@gmail.com"
