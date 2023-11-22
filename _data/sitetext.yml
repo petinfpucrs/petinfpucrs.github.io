@@ -293,28 +293,28 @@ team:
         role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
         image: assets\img\team\Eduarda.jpg
         social:
-          - url: https://github.com/e-patricio
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
-            icon: fab fa-linkedin-in
+        - url: https://github.com/e-patricio
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
+          icon: fab fa-linkedin-in
 
      - name: "João Pedro Kriger"
       role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
       image: assets\img\team\joaopedro.jpg
       social:
-        - url: https://github.com/sillysecret
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/joão-pedro-kriger-447435240/
-          icon: fab fa-linkedin-in
+      - url: https://github.com/sillysecret
+        icon: fab fa-github
+      - url: https://www.linkedin.com/in/joão-pedro-kriger-447435240/
+        icon: fab fa-linkedin-in
 
       - name: "Gustavo Willian Martins da Silva"
       role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
       image: assets\img\team\gustavoMartins.jpg
       social:
-        - url: https://github.com/GustavoWMSilva
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva-43b643232
-          icon: fab fa-linkedin-in
+      - url: https://github.com/GustavoWMSilva
+        icon: fab fa-github
+      - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva-43b643232
+        icon: fab fa-linkedin-in
 
 contact:
   title: "Fale Conosco"
