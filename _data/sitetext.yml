@@ -240,15 +240,6 @@ team:
       #  - url: https://br.linkedin.com/in/rafael-mayer-0117b4260?original_referer=
        #   icon: fab fa-linkedin-in
 
-   # - name: "João Meier"
-    #  role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-     # image: assets\img\team\joaomiguel.png
-      #social:
-       # - url: https://github.com/joaombonaldo
-        #  icon: fab fa-github
-        #- url: https://www.linkedin.com/in/joaombonaldo/
-          #icon: fab fa-linkedin-in
-
     - name: "Eduardo Tavares"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\EduardoTavares.jpg
