@@ -193,12 +193,6 @@ team:
       #- url: https://www.linkedin.com/in/mateus-freitas-charloto-961717221/
       #   icon: fab fa-linkedin-in
 
-      # - name: "Ana Schmitt"
-      # role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      # image: assets\img\team\ana.png
-      # social:
-      #   - url: https://www.linkedin.com/in/ana-schmitt
-      #     icon: fab fa-linkedin-in
     - name: "Bruno Neves"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
       image: assets\img\team\brunoneves.png
@@ -273,7 +267,7 @@ team:
 #            icon: fab fa-github
     - name: "Stéfano Carraro"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\stefano.jpg
+      #image: assets\img\team\stefano.jpg
       social:
         - url: https://github.com/StefanoDPCarraro
           icon: fab fa-github
@@ -282,7 +276,7 @@ team:
 
       - name: "Eduarda dos Santos Patricio"
         role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-        image: assets\img\team\Eduarda.jpg
+        #image: assets\img\team\Eduarda.jpg
         social:
           - url: https://github.com/e-patricio
             icon: fab fa-github
@@ -291,7 +285,7 @@ team:
 
      - name: "João Pedro Kriger"
       role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\joaopedro.jpg
+      #image: assets\img\team\joaopedro.jpg
       social:
         - url: https://github.com/sillysecret
           icon: fab fa-github
@@ -300,7 +294,7 @@ team:
 
       - name: "Gustavo Willian Martins da Silva"
       role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\gustavoMartins.jpg
+      #image: assets\img\team\gustavoMartins.jpg
       social:
         - url: https://github.com/GustavoWMSilva
           icon: fab fa-github
