@@ -92,15 +92,6 @@ team:
         - url: https://www.linkedin.com/in/milene-silveira-50a914a8/
           icon: fab fa-linkedin-in
   petianos:
-    - name: "Lorenzo Oliveira"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2021"
-      image: assets/img/team/LorenzoT.png
-      social:
-        - url: https://github.com/LorenzoOliveira03
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/lorenzo-turcato-oliveira-b7632b219/
-          icon: fab fa-linkedin-in
-
     - name: "Marcelo Martins"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\MarceloAugusto.png
@@ -117,15 +108,6 @@ team:
         - url: https://github.com/AndrieleLange
           icon: fab fa-github
         - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
-          icon: fab fa-linkedin-in
-
-    - name: "Ianes Filho"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
-      image: assets\img\team\IanesFilho.png
-      social:
-        - url: https://github.com/ianesfilho
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/ianes-alencastro-e-silva-filho-21561821a/?original_referer=
           icon: fab fa-linkedin-in
 
     - name: "Bruno Neves"
@@ -151,10 +133,6 @@ team:
         - url: https://www.linkedin.com/in/julianaa-f/
           icon: fab fa-linkedin-in
 
-    - name: "Renata Hess"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\renata.png
-
     - name: "Bernardo Müller"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\bernardo.png
@@ -177,7 +155,7 @@ team:
       social:
         - url: https://github.com/StefanoDPCarraro
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/eduardo-tavares-53038b27a/
+        - url: https://www.linkedin.com/in/stefano-carraro-739326318/
           icon: fab fa-linkedin-in
 
     - name: "Eduarda dos Santos Patricio"
@@ -187,24 +165,6 @@ team:
         - url: https://github.com/e-patricio
           icon: fab fa-github
         - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
-          icon: fab fa-linkedin-in
-
-    - name: "João Pedro Kriger"
-      role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\joaopedro.png
-      social:
-        - url: https://github.com/sillysecret
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/joão-pedro-kriger/
-          icon: fab fa-linkedin-in
-
-    - name: "Gustavo Willian Martins da Silva"
-      role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\gustavoMartins.png
-      social:
-        - url: https://github.com/GustavoWMSilva
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/gustavo-willian-martins-da-silva/
           icon: fab fa-linkedin-in
           
 contact:
