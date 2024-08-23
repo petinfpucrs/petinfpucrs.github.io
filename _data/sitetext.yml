@@ -181,13 +181,13 @@ team:
           icon: fab fa-linkedin-in
 
     - name: "Eduarda dos Santos Patricio"
-        role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-        #image: assets\img\team\Eduarda.png
-        social:
-          - url: https://github.com/e-patricio
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
-            icon: fab fa-linkedin-in
+      role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
+      #image: assets\img\team\Eduarda.png
+      social:
+        - url: https://github.com/e-patricio
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
+          icon: fab fa-linkedin-in
 
     - name: "João Pedro Kriger"
       role: "<b>Engenharia de software</b> <br> Ingresso: 11/2023"
