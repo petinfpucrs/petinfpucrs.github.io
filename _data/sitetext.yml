@@ -182,7 +182,7 @@ team:
 
     - name: "Eduarda dos Santos Patricio"
       role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-      #image: assets\img\team\Eduarda.png
+      image: assets\img\team\Eduarda.png
       social:
         - url: https://github.com/e-patricio
           icon: fab fa-github
