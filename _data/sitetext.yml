@@ -92,15 +92,6 @@ team:
         - url: https://www.linkedin.com/in/milene-silveira-50a914a8/
           icon: fab fa-linkedin-in
   petianos:
-    - name: "Marcelo Martins"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
-      image: assets\img\team\MarceloAugusto.png
-      social:
-        - url: https://github.com/MFelisberto
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/
-          icon: fab fa-linkedin-in
-
     - name: "Andriele Lange"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\andriele.png
