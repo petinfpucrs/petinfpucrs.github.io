@@ -101,15 +101,6 @@ team:
         - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
           icon: fab fa-linkedin-in
 
-    - name: "Bruno Neves"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\brunoneves.png
-      social:
-        - url: https://github.com/NevesRS
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/bruno-beal-neves-740a64234?original_referer=
-          icon: fab fa-linkedin-in
-
     - name: "Ana Schmitt"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
       image: assets\img\team\ana.png
@@ -131,15 +122,6 @@ team:
         - url: https://www.linkedin.com/in/bernardomuller
           icon: fab fa-linkedin-in
 
-    - name: "Eduardo Tavares"
-      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\EduardoTavares.png
-      social:
-        - url: https://github.com/Doardot
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/eduardo-tavares/
-          icon: fab fa-linkedin-in
-
     - name: "Stéfano Carraro"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 11/2023"
       image: assets\img\team\stefano.png
@@ -149,14 +131,6 @@ team:
         - url: https://www.linkedin.com/in/stefano-carraro-739326318/
           icon: fab fa-linkedin-in
 
-    - name: "Eduarda dos Santos Patricio"
-      role: "<b>Ciências da computação</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\Eduarda.png
-      social:
-        - url: https://github.com/e-patricio
-          icon: fab fa-github
-        - url: https://www.linkedin.com/in/eduarda-dos-santos-patricio/
-          icon: fab fa-linkedin-in
           
 contact:
   title: "Fale Conosco"
