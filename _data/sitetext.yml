@@ -126,7 +126,7 @@ team:
         
     - name: "Gustavo Tibolla Gallo"
       role: "<b>Engenharia da Computação</b> Ingresso: 09/2024"
-      image: assets\img\team\gustavo.jpeg
+      image: assets\img\team\gustavo.png
       social:
         - url: https://github.com/gustavgallo
           icon: fab fa-github
