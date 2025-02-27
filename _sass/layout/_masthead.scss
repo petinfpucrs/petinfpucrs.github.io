@@ -41,11 +41,11 @@ header.masthead {
         @include serif-font;
       }
       .intro-heading {
-        font-size: 75px;
+        font-size: 100px;
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
-        @include heading-font;
+        @include quick-font;
       }
     }
   }

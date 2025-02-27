@@ -1,7 +1,10 @@
 #Color Customization
-highlight: "#1662ab"
-white: "#fffbcd"
+highlight: "#1e4e8f"
+white: "#ffffff"
 black: "#000"
+blue: "##1e4e8f"
+yellow: "#fffbcd"
+
 
 #Image Customization
 header-image: "https://raw.githubusercontent.com/petinfpucrs/petinfpucrs.github.io/master/assets/img/talks/Fundo-header.jpg" #"../img/Teste6.png"
