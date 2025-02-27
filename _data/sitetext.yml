@@ -123,9 +123,9 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/stefano-carraro-739326318/
           icon: fab fa-linkedin-in
-
+        
     - name: "Amanda Luiz"
-         role: "<b>Ciência da Computação</b> <br> Ingresso: 11/2023"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 11/2023"
       image: assets\img\team\amanda.jpg
       social:
         - url: http://github.com/mattsue
@@ -141,6 +141,8 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/gustavo-tibolla-gallo/
           icon: fab fa-linkedin-in
+
+
 
 
           
