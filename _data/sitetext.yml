@@ -126,7 +126,7 @@ team:
 
     - name: "Amanda Luiz"
          role: "<b>Ciência da Computação</b> <br> Ingresso: 11/2023"
-      image: assets\img\team\
+      image: assets\img\team\amanda.jpg
       social:
         - url: http://github.com/mattsue
           icon: fab fa-github
