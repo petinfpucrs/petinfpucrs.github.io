@@ -123,16 +123,25 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/stefano-carraro-739326318/
           icon: fab fa-linkedin-in
+
+    - name: "Amanda Luiz"
+         role: "<b>Ciência da Computação</b> <br> Ingresso: 11/2023"
+      image: assets\img\team\
+      social:
+        - url: http://github.com/mattsue
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/amannda
+          icon: fab fa-linkedin-in
         
     - name: "Gustavo Tibolla Gallo"
-      role: "<b>Engenharia da Computação</b> Ingresso: 09/2024"
+      role: "<b>Engenharia da Computação</b> <br> Ingresso: 09/2024"
       image: assets\img\team\gustavo.png
       social:
         - url: https://github.com/gustavgallo
           icon: fab fa-github
         - url: https://www.linkedin.com/in/gustavo-tibolla-gallo/
           icon: fab fa-linkedin-in
-         
+
 
           
 contact:
