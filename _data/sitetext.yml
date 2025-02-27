@@ -108,13 +108,6 @@ team:
         - url: https://www.linkedin.com/in/ana-schmitt
           icon: fab fa-linkedin-in
 
-    - name: "Juliana Fernandes"
-      role: "<b>Ciência da Computação</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\juliana.png
-      social:
-        - url: https://www.linkedin.com/in/julianaa-f/
-          icon: fab fa-linkedin-in
-
     - name: "Bernardo Müller"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
       image: assets\img\team\bernardo.png
@@ -130,6 +123,16 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/stefano-carraro-739326318/
           icon: fab fa-linkedin-in
+        
+    - name: "Gustavo Tibolla Gallo"
+      role: "<b>Engenharia da Computação</b> Ingresso: 09/2024"
+      image: assets\img\team\gustavo.jpeg
+      social:
+        - url: https://github.com/gustavgallo
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/gustavo-tibolla-gallo/
+          icon: fab fa-linkedin-in
+         
 
           
 contact:
