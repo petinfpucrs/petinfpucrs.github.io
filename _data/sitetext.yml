@@ -153,11 +153,11 @@ team:
     
     - name: "Eduardo T"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2024"
-      image: 
+      image: assets\img\team\eduardo.jpg
       social:
-        - url: 
+        - url: https://github.com/etraunig
           icon: fab fa-github
-        - url:
+        - url: https://www.linkedin.com/in/eduardo-traunig-a105652b8/
           icon: fab fa-linkedin-in
     
 
