@@ -108,12 +108,12 @@ team:
         - url: https://www.linkedin.com/in/ana-schmitt
           icon: fab fa-linkedin-in
 
-    - name: "Bernardo Müller"
-      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
-      image: assets\img\team\bernardo.png
-      social:
-        - url: https://www.linkedin.com/in/bernardomuller
-          icon: fab fa-linkedin-in
+    # - name: "Bernardo Müller"
+    #   role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+    #   image: assets\img\team\bernardo.png
+    #   social:
+    #     - url: https://www.linkedin.com/in/bernardomuller
+    #       icon: fab fa-linkedin-in
 
     - name: "Stéfano Carraro"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 11/2023"
@@ -142,6 +142,23 @@ team:
         - url: https://www.linkedin.com/in/gustavo-tibolla-gallo/
           icon: fab fa-linkedin-in
 
+    - name: "Daniel Campos Martins"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2024"
+      image: 
+      social:
+        - url: https://github.com/Daniel-C-Martins
+          icon: fab fa-github
+        - url: http://www.linkedin.com/in/daniel-campos-martins-8b389026a
+          icon: fab fa-linkedin-in
+    
+    - name: "Eduardo T"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2024"
+      image: 
+      social:
+        - url: 
+          icon: fab fa-github
+        - url:
+          icon: fab fa-linkedin-in
     
 
 
