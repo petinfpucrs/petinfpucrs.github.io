@@ -107,6 +107,15 @@ team:
       social:
         - url: https://www.linkedin.com/in/ana-schmitt
           icon: fab fa-linkedin-in
+    
+    - name: "Dalton Belman Albeche"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
+      image: assets\img\team\dalton.jpg
+      social:
+        - url: https://github.com/daltonexx
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/dalton-belman-albeche-9a6bb3324/
+          icon: fab fa-linkedin-in
 
     # - name: "Bernardo Müller"
     #   role: "<b>Engenharia de Software</b> <br> Ingresso: 05/2023"
@@ -151,7 +160,7 @@ team:
         - url: http://www.linkedin.com/in/daniel-campos-martins-8b389026a
           icon: fab fa-linkedin-in
     
-    - name: "Eduardo T"
+    - name: "Eduardo Traunig"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2024"
       image: assets\img\team\eduardo.jpg
       social:
