@@ -144,7 +144,7 @@ team:
 
     - name: "Daniel Campos Martins"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2024"
-      image: 
+      image: assets\img\team\daniel.jpg
       social:
         - url: https://github.com/Daniel-C-Martins
           icon: fab fa-github
