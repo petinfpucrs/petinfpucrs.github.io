@@ -168,9 +168,88 @@ team:
           icon: fab fa-github
         - url: https://www.linkedin.com/in/eduardo-traunig-a105652b8/
           icon: fab fa-linkedin-in
+
+    - name: "João Gabriel C. Sbardelotto"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\joaogabriel.jpg
+      social:
+        - url: http://github.com/JhanosC
+          icon: fab fa-github
+        - url: https://br.linkedin.com/in/jo%C3%A3o-sbardelotto
+          icon: fab fa-linkedin-in
+          
+    - name: "Erick Branquinho Machado"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\erickmachado.jpg
+      social:
+        - url: https://github.com/Erick080
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/erick-branquinho-9a90a72b4
+          icon: fab fa-linkedin-in
     
+    - name: "Gabriel Copelo Bremm"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\gabriel.jpg
+      social:
+        - url: https://github.com/bremmgabriel
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/gabriel-bremm-2993a1360/
+          icon: fab fa-linkedin-in
+
+    - name: "Vinícius Ross W. dos Santos"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\vinicius.jpg
+      social:
+        - url: https://github.com/viniross
+          icon: fab fa-github
+        - url:  https://www.linkedin.com/in/vinicius-ross/
+          icon: fab fa-linkedin-in
 
 
+    - name: "Gabriel de Cezaro Tomaz"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\gabrieltomaz.jpg
+      social:
+        - url: https://github.com/Gaeltomaz123
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/gabriel-de-cezaro-tomaz-2618b5241/
+          icon: fab fa-linkedin-in
+
+    - name: "Francine de Oliveira Delanni"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\francine.jpg
+      social:
+        - url: https://github.com/FrancineDelanni
+          icon: fab fa-github
+        - url: www.linkedin.com/in/francine-delanni-89204a244
+          icon: fab fa-linkedin-in
+
+    - name: "Maurício Alcântara da Luz"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\mauricio.jpg
+      social:
+        - url: https://github.com/RockyRickaby
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/mauricio-alcantara-da-luz-204060292/
+          icon: fab fa-linkedin-in
+
+    - name: "Vinicius Moço Quintian"
+      role: "<b>Ciência de Dados e Inteligência Artificial </b> <br> Ingresso: 04/2025"
+      image: assets\img\team\viniciusquintin.jpg
+      social:
+        - url: https://github.com/Viniciusmq25
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/vinicius-quintian
+          icon: fab fa-linkedin-in
+
+    - name: "Artur Marcon Zanete"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2025"
+      image: assets\img\team\arthur.jpg
+      social:
+        - url: https://github.com/ArturMarcon
+          icon: fab fa-github
+        - url: https://www.linkedin.com/in/artur-zanette-marcon/
+          icon: fab fa-linkedin-in
 
           
 contact:
