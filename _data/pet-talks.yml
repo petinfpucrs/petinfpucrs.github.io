@@ -1,4 +1,4 @@
-link: https://pet-inf.github.io/pet-site/  # link da atual palestra
+link: http://tiny.cc/pettalks  # link da atual palestra
 hora: '18:00'                       # hora da palestra no formato '00:00'
 
 agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
@@ -18,21 +18,21 @@ agenda: #ativado    # se ativado, preenche as informações do último evento ad
 
 eventos:
 
-  - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
-    data: 02/12/2025
-    palestrante: Ex-Petianos
-    legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
+  - titulo: O FATOR SORTE NUMA CARREIRA DE SUCESSO 
+    data: 02/06/2021
+    palestrante: Maurício Nunes, Gerente de Engenharia no Facebook.
+    legenda: Mauricio gerencia um time de engenheiros de software responsáveis pela optimização dos compiladores e runtimes de dispositivos móveis, com o objetivo de fazer todas as apps do Facebook serem menores e mais eficientes para as centenas de milhões de usuários. Além disso, possui experiência em outras grandes empresas de tecnologia deste país, como a ADP, Amazon e Spotify.
     imagem: assets/img/talks/PET-Talks_Feed.jpg
 
-  - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
-    data: 02/12/2025
-    palestrante: Ex-Petianos
-    legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
-    imagem: assets/img/talks/PET-Talks_Feed.jpg
+  - titulo: COMO CRIEI UMA EMPRESA QUE JÁ IMPACTOU MAIS DE 20 MILHÕES DE PESSOAS
+    data: 30/06/2021
+    palestrante: Bruno Bulso, Diretor de Operações na Kobe.
+    legenda: Bruno Bulso é Alumni PUCRS do curso de Sistemas de Informação com ênfase em desenvolvimento de aplicativos mobile, Diretor de Operações da Kobe e co-fundador da Kobe, startup focada em criar soluções inovadoras para encantar consumidores por meio de experiências incríveis. Com mais de oito anos de experiência no setor de tecnologia, ele lidera equipes na criação de produtos digitais, aplicando técnicas utilizadas pelas empresas e startups mais bem sucedidas no mercado. Possui MBA em Marketing, Gestão, empreendedorismo e em Gerenciamento de projetos em negócios digitais.
+    imagem: assets/img/talks/PET-Talks-2_Feed.jpg
 
-  - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
-    data: 02/12/2025
-    palestrante: Ex-Petianos
-    legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
-    imagem: assets/img/talks/PET-Talks_Feed.jpg
+  - titulo: CARREIRA DE PESQUISADOR NA INDÚSTRIA
+    data: 27/10/2021
+    palestrante: Marco Netto, Pesquisador da IBM Research Brasil.
+    legenda: Marco Netto é Alumni PUCRS do curso de Ciência da Computação, pesquisador da IBM Research Brasil, gerente do grupo de cloud desde 2013 e inventor ativo com mais de 100 depósitos de patentes nos Estados Unidos, com invenções em diversas áreas, incluindo Cloud, AI, Data Analytics, IoT, UX e DevOps. Também, é um dos grandes colaboradores para trazer a IBM Brasil no topo da lista de empresas no Brasil com patentes nos Estados Unidos, mentorizando centenas de inventores.
+    imagem: assets/img/talks/PET-Talks-3_Feed.jpg
     
