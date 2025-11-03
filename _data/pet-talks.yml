@@ -1,4 +1,4 @@
-link:  https://pet-inf.github.io/pet-site/  # link da atual palestra
+link: https://pet-inf.github.io/pet-site/  # link da atual palestra
 hora: '18:00'                       # hora da palestra no formato '00:00'
 
 agenda: #ativado    # se ativado, preenche as informações do último evento adicionado com o link da palestra e fonte azul; 
@@ -19,7 +19,19 @@ agenda: #ativado    # se ativado, preenche as informações do último evento ad
 eventos:
 
   - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
-    data: 02/06/2025
+    data: 02/12/2025
+    palestrante: Ex-Petianos
+    legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
+    imagem: assets/img/talks/PET-Talks_Feed.jpg
+
+  - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
+    data: 02/12/2025
+    palestrante: Ex-Petianos
+    legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
+    imagem: assets/img/talks/PET-Talks_Feed.jpg
+
+  - titulo: CONSULTE O NOVO SITE PARA MAIORES INFORMAÇÕES
+    data: 02/12/2025
     palestrante: Ex-Petianos
     legenda: Acesse o novo site no link: https://pet-inf.github.io/pet-site/.
     imagem: assets/img/talks/PET-Talks_Feed.jpg
